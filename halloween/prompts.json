@@ -1,5 +1,68 @@
 [
   {
+    "id": "p34659",
+    "title": "A woman sits beside Chucky at a bedroom vanity, surrounded by neon and glowing pumpkins in a retro 1980s horror-comedy scene",
+    "model": "GPT Image 2.5",
+    "ratio": "4/5",
+    "needsReference": true,
+    "prompt": "Style and genre:\n1980s horror-comedy film still, retro domestic thriller photography, 35mm film aesthetic.\nVisual effects:\nDouble reflection in a vintage mirror, soft pink neon tube glow, specular glints on the doll's glass eyes, fine analog film grain.\nMain subject:\n[reference photo] — preserve identity 100%, without any changes to facial features, shape, or proportions; long loose hair styled naturally.\nPose and motion:\n[sitting before a bedroom vanity table, leaning one cheek on a hand, calm unreadable smile; the Chucky doll sits propped on the wooden counter beside her holding an antique hairbrush].\nEnvironment details:\nWearing [the same vintage rainbow-striped fitted T-shirt under classic blue denim bib overalls]. On the tabletop: vintage cosmetic bottles, miniature pumpkins, scattered wrapped hard candies. A glowing violet neon sign reading \"SPOOKY\" is reflected in the corner of the mirror.\nBackground and setting:\n[retro bedroom vanity nook], dark floral wallpaper, warm fairy lights woven around the mirror frame.\nLighting:\nWarm amber glow from vanity tungsten bulbs mixed with a deep violet neon edge light defining the shoulders and hair.\nColor palette:\nSaturated retro tones, dominant [deep violet and dark mahogany], accents [bright orange pumpkin glow and candy rainbow stripes].\nImage quality:\nUltra-high resolution 8K, Path Tracing, RAW, 4:5 aspect ratio, 50mm vintage lens rendering, sharp focus on facial features and doll texture.",
+    "prompt_ru": "Стиль и жанр:\nКадр из фильма ужасов-комедии 1980-х годов, ретрофотография в духе домашнего триллера, эстетика 35mm плёнки.\nВизуальные эффекты:\nДвойное отражение в винтажном зеркале, мягкое свечение розовой неоновой трубки, бликующие отблески в стеклянных глазах куклы, мелкое зерно аналоговой плёнки.\nГлавный объект:\n[референсное фото] — сохранить идентичность на 100%, без каких-либо изменений черт лица, формы или пропорций; длинные распущенные волосы уложены естественно.\nПоза и движение:\n[сидит перед туалетным столиком в спальне, опираясь щекой на одну руку, с спокойной нечитаемой улыбкой; кукла Chucky сидит, прислонившись к деревянной столешнице рядом с ней, и держит старинную расчёску].\nДетали окружения:\nНа ней [та же винтажная облегающая футболка в радужную полоску под классическим синим джинсовым комбинезоном с нагрудником]. На столешнице: винтажные флаконы с косметикой, миниатюрные тыквы, рассыпанные леденцы в обёртках. В углу зеркала отражается светящаяся фиолетовая неоновая вывеска с надписью \"SPOOKY\".\nФон и обстановка:\n[ретро-уголок спальни с туалетным столиком], тёмные обои с цветочным узором, тёплые гирлянды, оплетённые вокруг рамы зеркала.\nОсвещение:\nТёплое янтарное свечение от вольфрамовых ламп туалетного столика, смешанное с глубоким фиолетовым неоновым контровым светом, очерчивающим плечи и волосы.\nЦветовая палитра:\nНасыщенные ретро-тона, доминирующие [глубокий фиолетовый и тёмное красное дерево], акценты [ярко-оранжевое свечение тыкв и радужные полоски конфет].\nКачество изображения:\nСверхвысокое разрешение 8K, Path Tracing, RAW, соотношение сторон 4:5, визуализация винтажным объективом 50mm, резкий фокус на чертах лица и текстуре куклы.",
+    "tags": [
+      "ужасы",
+      "кино",
+      "ретро",
+      "портрет",
+      "женщина",
+      "свет",
+      "вертикально"
+    ],
+    "image": "halloween/images/p34659.jpg",
+    "url": "https://mozgi.io/en/prompt/p34659",
+    "author": "@Yelpin"
+  },
+  {
+    "id": "p34662",
+    "title": "A woman leans over a glowing pumpkin as Chucky peeks out behind it in a warm festive room",
+    "model": "GPT Image 2.5",
+    "ratio": "4/5",
+    "needsReference": true,
+    "prompt": "Style and genre:\nCharacter-driven macro portrait, warm autumn holiday editorial, tactile cinema still.\nVisual effects:\nWarm candle flame halation, translucent orange glow through carved pumpkin walls, specular reflections on damp pumpkin seeds, shallow depth of field.\nMain subject:\n[reference photo] — preserve identity 100%, without any changes to facial features, shape, or proportions; hair tucked loosely behind one ear.\nPose and motion:\n[close head-and-shoulders composition, resting her chin on her hands over the rim of an open hollow pumpkin, deadpan calm gaze; Chucky peeks out from right behind the pumpkin with wide blue glass eyes].\nEnvironment details:\nWearing [the collar and straps of the rainbow-striped tee and denim overalls]. Carved pumpkin meat, loose stringy pulp, and glossy seeds resting on a tray in the immediate foreground; fake spiderwebs stretched across the background.\nBackground and setting:\n[warm festive bedroom corner in deep optical blur], distant soft circles of fairy lights and dark wood panels.\nLighting:\nIntense internal warm amber glow radiating directly upward from inside the pumpkin carving, sculpting the lower jaw and facial contours.\nColor palette:\nWarm harvest tones, dominant [vibrant pumpkin orange and candle amber], neutral contrast [denim blue], pale ivory accents.\nImage quality:\nUltra-high resolution 8K, RAW, Path Tracing, 4:5 aspect ratio, 85mm macro lens at f/2.0, crystal-clear focus on the eyes and pumpkin pulp.",
+    "prompt_ru": "Стиль и жанр:\nМакропортрет с акцентом на персонаже, тёплая осенняя праздничная редакционная съёмка, тактильный кадр из кино.\nВизуальные эффекты:\nТёплое свечение вокруг пламени свечи, полупрозрачное оранжевое сияние сквозь резные стенки тыквы, зеркальные блики на влажных тыквенных семечках, малая глубина резкости.\nГлавный объект:\n[референсное фото] — сохранить идентичность на 100%, без каких-либо изменений черт лица, формы или пропорций; волосы небрежно убраны за одно ухо.\nПоза и движение:\n[крупная композиция с головой и плечами, она опирается подбородком на руки над краем открытой выдолбленной тыквы, невозмутимый спокойный взгляд; Chucky выглядывает справа из-за тыквы, широко раскрыв голубые стеклянные глаза].\nДетали окружения:\nНа ней [воротник радужно-полосатой футболки и лямки джинсового комбинезона]. Мякоть вырезанной тыквы, разрозненная волокнистая мякоть и глянцевые семечки лежат на подносе прямо на переднем плане; на заднем плане натянута искусственная паутина.\nФон и обстановка:\n[тёплый праздничный уголок спальни в глубоком оптическом размытии], вдали мягкие световые круги от гирлянд и панели из тёмного дерева.\nОсвещение:\nИнтенсивное внутреннее тёплое янтарное свечение, исходящее прямо вверх изнутри вырезанной тыквы и подчёркивающее нижнюю челюсть и контуры лица.\nЦветовая палитра:\nТёплые осенние тона, доминирующие [яркий тыквенный оранжевый и янтарный цвет свечи], нейтральный контраст [джинсовый синий], акценты бледной слоновой кости.\nКачество изображения:\nСверхвысокое разрешение 8K, RAW, Path Tracing, соотношение сторон 4:5, макрообъектив 85mm при f/2.0, кристально чёткий фокус на глазах и тыквенной мякоти.",
+    "tags": [
+      "ужасы",
+      "портрет",
+      "фото",
+      "женщина",
+      "макро",
+      "свет",
+      "интерьер"
+    ],
+    "image": "halloween/images/p34662.jpg",
+    "url": "https://mozgi.io/en/prompt/p34662",
+    "author": "@Yelpin"
+  },
+  {
+    "id": "p34664",
+    "title": "High-fashion portrait of a woman with geometric makeup and silver stitches across her face and neck",
+    "model": "GPT Image 2.5",
+    "ratio": "4/5",
+    "needsReference": true,
+    "prompt": "Style and genre:\nHigh-fashion theatrical beauty editorial, avant-garde porcelain character study, modern studio portraiture.\nVisual effects:\nSubtle subsurface scattering through facial skin, raised 3D surface relief along cosmetic silicone stitch prosthetics, contrasting matte and satin cosmetic textures over real skin pores, crisp reflections in the irises.\nMain subject:\n[reference photo] — preserve identity 100%, without any changes to facial structure, bone geometry, eyes, nose, lips, jaw, natural skin tone, or authentic age; natural hair texture, color, and hairline fully preserved.\nPose and motion:\n[direct centered head-and-shoulders portrait, shoulders squared, chin held level, calm penetrating gaze locked onto the camera lens].\nEnvironment details:\nWearing [a minimalist high-neck structured black crewneck top]. The face, neck, and upper chest are partitioned into distinct artistic geometric blocks of chalk ivory, dusty slate blue, pale lilac, and warm terracotta; each color zone is demarcated by fine black cosmetic boundary lines and bridged across with pronounced raised decorative silver cross-stitches and thread staples made of theatrical makeup prosthetics; subtle neutral contouring, delicate dotted pattern accents across the cheekbones, and rich deep-plum lip tone; completely clean editorial cosmetics free of wounds, abrasions, or blood.\nBackground and setting:\n[neutral matte charcoal studio background], smooth optical falloff into soft shadow, free of environmental props.\nLighting:\nSculptural multi-point studio lighting: overhead key light carving the brow and cheekbones, highlighting the three-dimensional ridges of the silver stitches, subtle dual-side fill balancing the colored skin panels.\nColor palette:\nAvant-garde color-block scheme, dominant [matte charcoal and solid black], juxtaposed cosmetic panels [chalk ivory, slate blue, lilac, terracotta], rich focal accent [deep plum on the lips].\nImage quality:\nUltra-high resolution 8K, Path Tracing, RAW, 4:5 aspect ratio, 85mm portrait prime lens at f/2.8, razor-sharp focus on the eyes, decorative stitch relief, and skin texture.",
+    "prompt_ru": "Стиль и жанр:\nГлянцевый театральный бьюти-эдиториал в стиле высокой моды, авангардное исследование фарфорового персонажа, современная студийная портретная фотография.\nВизуальные эффекты:\nТонкое подповерхностное рассеяние света в коже лица, рельефная 3D-текстура вдоль косметических силиконовых протезов, имитирующих швы, контрастные матовые и сатиновые косметические текстуры поверх пор натуральной кожи, чёткие отражения в радужках глаз.\nГлавный объект:\n[референсное фото] — сохранить идентичность на 100%, без каких-либо изменений структуры лица, геометрии костей, глаз, носа, губ, челюсти, естественного тона кожи или настоящего возраста; полностью сохранить естественную текстуру и цвет волос, а также линию роста волос.\nПоза и движение:\n[прямой фронтальный портрет головы и плеч по центру, плечи расправлены, подбородок держится ровно, спокойный пронизывающий взгляд направлен прямо в объектив камеры].\nДетали окружения:\nНа модели [минималистичный структурированный чёрный топ с круглым высоким воротом]. Лицо, шея и верхняя часть груди разделены на отдельные художественные геометрические блоки мелового цвета слоновой кости, пыльного сланцево-синего, бледно-сиреневого и тёплого терракотового; каждая цветовая зона очерчена тонкими чёрными косметическими разделительными линиями и соединена рельефными декоративными серебряными крестообразными стежками и скобами из нитей, выполненными из театральных гримёрных протезов; лёгкая нейтральная коррекция контуров, изящные точечные узоры на скулах и насыщенный тёмно-сливовый оттенок губ; полностью чистый редакционный макияж без ран, ссадин и крови.\nФон и обстановка:\n[нейтральный матовый угольно-серый студийный фон], плавное оптическое затухание в мягкую тень, без элементов декора и предметов окружения.\nОсвещение:\nСкульптурное многоточечное студийное освещение: верхний ключевой свет вычерчивает брови и скулы, подчёркивая трёхмерные рёбра серебряных стежков; мягкий заполняющий свет с двух сторон уравновешивает цветные панели кожи.\nЦветовая палитра:\nАвангардная схема цветовых блоков, доминирующие [матовый угольно-серый и насыщенный чёрный], контрастные косметические панели [меловой цвет слоновой кости, сланцево-синий, сиреневый, терракотовый], насыщенный акцент [тёмно-сливовый на губах].\nКачество изображения:\nСверхвысокое разрешение 8K, Path Tracing, RAW, соотношение сторон 4:5, портретный объектив с фиксированным фокусным расстоянием 85mm при f/2.8, предельно резкий фокус на глазах, рельефе декоративных стежков и текстуре кожи.",
+    "tags": [
+      "портрет",
+      "студия",
+      "хедшот",
+      "фото",
+      "женщина",
+      "мода",
+      "реализм"
+    ],
+    "image": "halloween/images/p34664.jpg",
+    "url": "https://mozgi.io/en/prompt/p34664",
+    "author": "@Yelpin"
+  },
+  {
     "id": "p34663",
     "title": "A girl hugs Chucky on a windowsill as rain pours outside and neon glows",
     "model": "GPT Image 2.5",
@@ -501,27 +564,6 @@
     "author": "@Yelpin"
   },
   {
-    "id": "p34631",
-    "title": "A man in a worn hat and bladed glove stares into the lens in a dark horror portrait",
-    "model": "GPT Image 2.5",
-    "ratio": "4/5",
-    "needsReference": true,
-    "prompt": "Style and genre:\nCinematic dark editorial horror portrait, ultra-realistic character study, 35mm film still.\nVisual effects:\nSpecular highlights glancing off honed metallic blade edges, subsurface light scattering within deep skin fissures, fine film grain texture across dark blue shadow transitions.\nMain subject:\n[reference photo] — preserve identity 100%, without any changes to facial proportions, features, or structure.\nPose and motion:\n[menacing vertical pose, head tilted slightly down with an intense stare locked directly onto the lens, right hand raised beside the cheek displaying a weathered leather glove with curved metal blades].\nEnvironment details:\nWearing [a vintage weathered dark brown fedora hat, a coarse knit wool sweater with horizontal olive-green and muted-red stripes, an articulated metal claw glove with sharp steel finger blades]. Twisted burned-skin texture and scarred tissue integrated across the facial anatomy.\nBackground and setting:\n[dark studio backdrop with seamless deep blue tones], soft gradient falloff creating complete separation from the figure.\nLighting:\nHard directional key light positioned at 45 degrees camera-left casting sculpted facial shadows, low-intensity fill light on the opposite side, cold blue rim light defining the hat brim and shoulder.\nColor palette:\nDark horror palette, dominant [deep studio blue], accents [muted olive green and dull crimson red of the knit fabric], sharp cold highlight of [polished steel blades].\nImage quality:\nUltra-high resolution 8K, Path Tracing, RAW, 4:5 aspect ratio, 85mm portrait depth of field, sharp focus on the nearest eye.",
-    "prompt_ru": "Стиль и жанр:\nКинематографичный мрачный редакционный хоррор-портрет, ультрареалистичное исследование персонажа, кадр из фильма на 35-мм плёнку.\nВизуальные эффекты:\nБлики скользят по отполированным кромкам металлических лезвий, подповерхностное рассеивание света в глубоких трещинах кожи, мелкозернистая текстура плёнки по переходам тёмно-синих теней.\nГлавный объект:\n[референсное фото] — сохранить идентичность на 100%, без каких-либо изменений пропорций лица, черт или структуры.\nПоза и движение:\n[угрожающая поза стоя, голова слегка наклонена вниз, напряжённый взгляд прямо в объектив, правая рука поднята рядом со щекой, демонстрируя потёртую кожаную перчатку с изогнутыми металлическими лезвиями].\nДетали окружения:\nОдет в [винтажную потёртую тёмно-коричневую фетровую шляпу, грубый вязаный шерстяной свитер с горизонтальными полосами оливково-зелёного и приглушённо-красного цветов, шарнирную металлическую перчатку-коготь с острыми стальными лезвиями]. Искривлённая текстура обожжённой кожи и рубцовая ткань интегрированы в анатомию лица.\nФон и обстановка:\n[тёмный студийный фон с однородными глубокими синими тонами], мягкий градиентный спад яркости, создающий полное отделение фигуры от фона.\nОсвещение:\nЖёсткий направленный ключевой свет, расположенный под углом 45 градусов слева от камеры и отбрасывающий скульптурные тени на лицо, слабый заполняющий свет с противоположной стороны, холодный синий контровой свет, очерчивающий поля шляпы и плечо.\nЦветовая палитра:\nТёмная хоррор-палитра, преобладающий [глубокий студийный синий], акценты [приглушённый оливково-зелёный и тусклый багряно-красный цвет вязаной ткани], резкий холодный блик [полированных стальных лезвий].\nКачество изображения:\nСверхвысокое разрешение 8K, Path Tracing, RAW, соотношение сторон 4:5, портретная глубина резкости 85mm, резкий фокус на ближайшем глазе.",
-    "tags": [
-      "cinematic",
-      "close-up",
-      "портрет",
-      "ужасы",
-      "мужчина",
-      "металл",
-      "реализм"
-    ],
-    "image": "halloween/images/p34631.jpg",
-    "url": "https://mozgi.io/en/prompt/p34631",
-    "author": "@Yelpin"
-  },
-  {
     "id": "p34615",
     "title": "A man takes a selfie with six creepy characters outside a video store",
     "model": "GPT Image 2.5",
@@ -668,61 +710,168 @@
     "author": "@Yelpin"
   },
   {
-    "id": "p34334",
-    "title": "Macro shot of a creepy rag doll with button eyes and an embroidered mouth",
+    "id": "p34599",
+    "title": "A puppy in a bat-wing cape sits among pumpkins, candy and Halloween decorations in a playful advertising shoot",
     "model": "Nano Banana 2.1",
-    "ratio": "3/4",
+    "ratio": "9/16",
     "needsReference": false,
-    "prompt": "Style and genre:\nProduct macro photography of a handmade textile toy, whimsical slightly creepy aesthetic.\n\nVisual effects:\nExtreme detail: yarn fibers, denim weave, buttonholes, uneven mouth stitches. Shallow depth of field.\n\nMain object:\nDOLL (do not change):\nHandmade rag doll with a rectangular body made of [light pink] fabric. The left side of the face is covered by a patch of [blue denim]. Eyes made of mismatched buttons: a large blue one on the denim patch and a white one on the pink fabric. Embroidered mouth with jagged teeth. A fluffy orange bow tie around the neck. Denim shorts with a black button and belt loops, legs made of checkered fabric, thin arms in orange-blue-yellow stripes. Hair made of frayed yarn in brown and gray shades sticking out in tufts.\n\nPose and movement:\n[close-up of the head and bow tie, head slightly tilted, button eyes looking directly at the lens].\n\nEnvironmental details:\nLoose threads along the edge of the patch, fluff from the bow tie in focus.\n\nBackground and environment:\n[patchwork quilt] in deep blur.\n\nLighting:\nSoft directional light from the side, shadows in the stitches and between the yarn tufts, glare on the buttons.\n\nColor palette:\n[light pink], [blue denim], [orange], warm blurred quilt colors.\n\nImage quality:\nUltra-high resolution 8K, RAW, 100mm macro f/4, vertical frame 4:5, sharp focus on button eyes and mouth stitches.",
-    "prompt_ru": "Стиль и жанр:\nПредметная макросъёмка рукодельной текстильной игрушки, причудливая слегка жутковатая эстетика.\n\nВизуальные эффекты:\nЭкстремальная детализация: волокна пряжи, плетение денима, отверстия в пуговицах, неровные стежки рта. Малая глубина резкости.\n\nОсновной объект:\nКУКЛА (не менять):\nРукодельная тряпичная кукла с прямоугольным телом из [светло-розовой] ткани. Левую сторону лица закрывает заплатка из [синего денима]. Глаза из разных пуговиц: крупная синяя на денимовой заплатке и белая на розовой ткани. Вышитый рот с зубчатыми зубами. На шее пушистый оранжевый бант-бабочка. Джинсовые шорты с чёрной пуговицей и шлёвками, ноги из клетчатой ткани, тонкие руки в оранжево-сине-жёлтую полоску. Волосы из распушённой пряжи коричневых и серых оттенков торчат пучками.\n\nПоза и движение:\n[крупный план головы и банта, голова слегка наклонена, пуговичные глаза смотрят прямо в объектив].\n\nДетали окружения:\nТорчащие нитки по краю заплатки, пушинки банта в фокусе.\n\nФон и окружение:\n[лоскутное одеяло] в глубоком размытии.\n\nОсвещение:\nМягкий направленный свет сбоку, тени в стежках и между пучками пряжи, блик на пуговицах.\n\nЦветовая палитра:\n[светло-розовый], [синий деним], [оранжевый], тёплые размытые цвета одеяла.\n\nКачество изображения:\nUltra-high resolution 8K, RAW, 100mm macro f/4, вертикальный кадр 4:5, резкость на пуговичных глазах и стежках рта.",
+    "prompt": "Use the puppy from [REFERENCE DOG PHOTO]. Very young puppy under 3 months, realistic professional studio photo, puppy sitting in the center wearing a short bat-wing shoulder cape and an orange bow collar, body clearly visible and mostly uncovered, surrounded by suspended-looking bat props, two jack-o'-lanterns and a candy bucket, clean solid charcoal black background, no gradient, no blur, soft studio lighting, energetic playful Halloween campaign style, highly detailed fur and prop textures.",
+    "prompt_ru": "Используй щенка с [РЕФЕРЕНСНОЕ ФОТО СОБАКИ]. Очень маленький щенок в возрасте до 3 месяцев, реалистичная профессиональная студийная фотография, щенок сидит в центре, на нём короткая наплечная накидка в форме крыльев летучей мыши и оранжевый ошейник-бант, тело хорошо видно и оно в основном не закрыто, вокруг словно подвешены бутафорские летучие мыши, две тыквы-фонари и ведёрко для сладостей, чистый однотонный угольно-чёрный фон, без градиента, без размытия, мягкий студийный свет, энергичный игривый стиль хэллоуинской кампании, очень детализированные текстуры шерсти и реквизита.",
     "tags": [
-      "макро",
+      "реализм",
+      "фото",
+      "студия",
+      "собака",
+      "костюм",
+      "реклама",
+      "вертикально"
+    ],
+    "image": "halloween/images/p34599.jpg",
+    "url": "https://mozgi.io/en/prompt/p34599",
+    "author": "@Yelpin"
+  },
+  {
+    "id": "p34604",
+    "title": "Woman in a black dress lies in a circle of light while a masked figure watches nearby",
+    "model": "GPT Image 2.5",
+    "ratio": "4/5",
+    "needsReference": false,
+    "prompt": "Style and genre:\nPhotorealistic fashion portrait in the spirit of 1990s slasher films and early-2000s glossy shoots, ironic Halloween chic.\n\nVisual effects:\nOverhead view, crisp spotlight circle on the floor, fine grain, flash highlights on the red shoes.\n\nMain subject:\n[reference photo of an adult woman] — preserve identity 100%: face, proportions, skin tone, hair color and individual features exactly as in the reference.\n\nPose and motion:\n[she lies on her back inside the light circle, hair fanned out, legs crossed, hands behind her head, amused smile up at the camera; the masked figure crouches at the edge of the circle peering over her with head tilted].\n\nEnvironment details:\nShort black dress staying in place, red high heels. Masked figure in a white ghost-like mask of original design and a black hooded robe.\n\nBackground and setting:\n[dark studio floor] beyond the light circle.\n\nLighting:\nHard spotlight from directly above, soft flash fill.\n\nColor palette:\n[saturated red], [deep black], [white], natural skin.\n\nImage quality:\nPhotorealistic, top-down camera, vertical 4:5, sharp face. No blood, weapons, fear, text or watermark.",
+    "prompt_ru": "Стиль и жанр:\nФотореалистичный модный портрет в духе слэшеров 1990-х и глянцевых фотосессий начала 2000-х, ироничный хэллоуинский шик.\n\nВизуальные эффекты:\nВид сверху, чёткий круг прожекторного света на полу, мелкозернистая текстура, блики вспышки на красных туфлях.\n\nГлавный объект:\n[эталонная фотография взрослой женщины] — сохранить идентичность на 100%: лицо, пропорции, тон кожи, цвет волос и индивидуальные черты в точности как на эталонной фотографии.\n\nПоза и движение:\n[она лежит на спине внутри светового круга, волосы разложены веером, ноги скрещены, руки за головой, она с улыбкой смотрит вверх на камеру; фигура в маске присела на краю круга и склоняется над ней, наклонив голову].\n\nДетали окружения:\nКороткое чёрное платье, не задирающееся, красные туфли на высоком каблуке. Фигура в белой маске призрачного вида оригинального дизайна и чёрном капюшонном одеянии.\n\nФон и обстановка:\n[тёмный студийный пол] за пределами светового круга.\n\nОсвещение:\nЖёсткий прожекторный свет прямо сверху, мягкий заполняющий свет вспышки.\n\nЦветовая палитра:\n[насыщенный красный], [глубокий чёрный], [белый], естественный цвет кожи.\n\nКачество изображения:\nФотореализм, камера сверху, вертикальный формат 4:5, резкое лицо. Без крови, оружия, страха, текста или водяного знака.",
+    "tags": [
+      "фото",
       "портрет",
-      "close-up",
-      "вертикально",
-      "продукт"
-    ],
-    "image": "halloween/images/p34334.jpg",
-    "url": "https://mozgi.io/en/prompt/p34334",
-    "author": "@Yelpin"
-  },
-  {
-    "id": "p34332",
-    "title": "A whimsical rag doll with a patch on its face and buttons for eyes",
-    "model": "Nano Banana 2.1",
-    "ratio": "3/4",
-    "needsReference": false,
-    "prompt": "Style and genre:\nProduct photography of a handmade textile toy, whimsical slightly creepy aesthetic.\n\nVisual effects:\nThe texture of each fabric is visible: denim weave, plaid, corduroy, fluffy fibers of the bow. Uneven hand stitches, stray threads, soft shadows in the fabric folds.\n\nMain object:\nDOLL (do not change):\nHandmade rag doll with a rectangular body made of [light pink] fabric. The left side of the face is covered by a patch of [blue denim]. Eyes made of different buttons: a large blue one on the denim patch and a white one on the pink fabric. Embroidered mouth with jagged teeth. A fluffy orange bow tie around the neck. Denim shorts with a black button and belt loops, legs made of plaid fabric, thin arms in orange-blue-yellow stripes. Hair made of frayed yarn in brown and gray shades sticking out in tufts.\n\nPose and movement:\n[standing full height in the center, arms down along the body, head slightly tilted to the side].\n\nEnvironment details:\nSmall stray threads along the seams, slight fabric wear on the knees.\n\nBackground and environment:\n[patchwork quilt] of multi-colored squares as background and surface.\n\nLighting:\nSoft diffused daylight from the side, delicate shadows, fabric texture emphasized.\n\nColor palette:\n[light pink], [blue denim], [orange], yellow and plaid accents, warm tones of the patchwork quilt.\n\nImage quality:\nUltra-high resolution 8K, RAW, 50mm f/4, vertical frame 4:5, sharp focus on the doll.",
-    "prompt_ru": "Стиль и жанр:\nПредметная фотография рукодельной текстильной игрушки, причудливая слегка жутковатая эстетика.\n\nВизуальные эффекты:\nВидна фактура каждой ткани: плетение денима, клетка, рубчик, пушистые волокна банта. Неровные ручные стежки, торчащие нитки, лёгкие тени в складках ткани.\n\nОсновной объект:\nКУКЛА (не менять):\nРукодельная тряпичная кукла с прямоугольным телом из [светло-розовой] ткани. Левую сторону лица закрывает заплатка из [синего денима]. Глаза из разных пуговиц: крупная синяя на денимовой заплатке и белая на розовой ткани. Вышитый рот с зубчатыми зубами. На шее пушистый оранжевый бант-бабочка. Джинсовые шорты с чёрной пуговицей и шлёвками, ноги из клетчатой ткани, тонкие руки в оранжево-сине-жёлтую полоску. Волосы из распушённой пряжи коричневых и серых оттенков торчат пучками.\n\nПоза и движение:\n[стоит в полный рост по центру, руки опущены вдоль тела, голова чуть наклонена набок].\n\nДетали окружения:\nМелкие торчащие нитки по швам, лёгкая потёртость ткани на коленях.\n\nФон и окружение:\n[лоскутное стёганое одеяло] из разноцветных квадратов как фон и поверхность.\n\nОсвещение:\nМягкий рассеянный дневной свет сбоку, деликатные тени, подчёркнута фактура тканей.\n\nЦветовая палитра:\n[светло-розовый], [синий деним], [оранжевый], жёлтые и клетчатые акценты, тёплые тона лоскутного одеяла.\n\nКачество изображения:\nUltra-high resolution 8K, RAW, 50mm f/4, вертикальный кадр 4:5, резкость на кукле.",
-    "tags": [
-      "продукт",
-      "интерьер",
-      "вертикально",
-      "минимализм",
-      "портрет"
-    ],
-    "image": "halloween/images/p34332.jpg",
-    "url": "https://mozgi.io/en/prompt/p34332",
-    "author": "@Yelpin"
-  },
-  {
-    "id": "p34333",
-    "title": "A whimsical rag doll with button eyes and denim shorts sits on a blanket",
-    "model": "Nano Banana 2.1",
-    "ratio": "3/4",
-    "needsReference": false,
-    "prompt": "Style and genre:\nProduct photography of a handmade textile toy, whimsical slightly creepy aesthetic.\n\nVisual effects:\nThe texture of each fabric and hand stitches are visible. Shallow depth of field, patchwork background softly blurred.\n\nMain object:\nDOLL (do not change):\nHandmade rag doll with a rectangular body made of [light pink] fabric. The left side of the face is covered by a patch of [blue denim]. Eyes made of different buttons: a large blue one on the denim patch and a white one on the pink fabric. Embroidered mouth with jagged teeth. A fluffy orange bow tie around the neck. Denim shorts with a black button and belt loops, legs made of plaid fabric, thin arms in orange-blue-yellow stripes. Hair made of frayed yarn in brown and gray shades sticking out in tufts.\n\nPose and movement:\n[sitting on the edge of a folded patchwork quilt, plaid legs dangling down, striped arms resting on knees, head tilted forward, button eyes looking at the camera].\n\nEnvironmental details:\nA spool of thread and a pair of spare buttons lie nearby.\n\nBackground and environment:\n[patchwork quilt] in blur.\n\nLighting:\nSoft diffused daylight from the side, delicate shadows.\n\nColor palette:\n[light pink], [blue denim], [orange], yellow and plaid accents.\n\nImage quality:\nUltra-high resolution 8K, RAW, 85mm f/2.8, vertical frame 4:5, sharp focus on the doll's face.",
-    "prompt_ru": "Стиль и жанр:\nПредметная фотография рукодельной текстильной игрушки, причудливая слегка жутковатая эстетика.\n\nВизуальные эффекты:\nВидна фактура каждой ткани и ручные стежки. Малая глубина резкости, лоскутный фон мягко размыт.\n\nОсновной объект:\nКУКЛА (не менять):\nРукодельная тряпичная кукла с прямоугольным телом из [светло-розовой] ткани. Левую сторону лица закрывает заплатка из [синего денима]. Глаза из разных пуговиц: крупная синяя на денимовой заплатке и белая на розовой ткани. Вышитый рот с зубчатыми зубами. На шее пушистый оранжевый бант-бабочка. Джинсовые шорты с чёрной пуговицей и шлёвками, ноги из клетчатой ткани, тонкие руки в оранжево-сине-жёлтую полоску. Волосы из распушённой пряжи коричневых и серых оттенков торчат пучками.\n\nПоза и движение:\n[сидит на краю сложенного лоскутного одеяла, клетчатые ноги свисают вниз, полосатые руки лежат на коленях, голова наклонена вперёд, пуговичные глаза смотрят в камеру].\n\nДетали окружения:\nРядом лежит катушка ниток и пара запасных пуговиц.\n\nФон и окружение:\n[лоскутное стёганое одеяло] в размытии.\n\nОсвещение:\nМягкий рассеянный дневной свет сбоку, деликатные тени.\n\nЦветовая палитра:\n[светло-розовый], [синий деним], [оранжевый], жёлтые и клетчатые акценты.\n\nКачество изображения:\nUltra-high resolution 8K, RAW, 85mm f/2.8, вертикальный кадр 4:5, резкость на лице куклы.",
-    "tags": [
-      "3D",
-      "продукт",
+      "мода",
+      "ужасы",
       "студия",
       "вертикально",
-      "макро",
-      "close-up"
+      "свет"
     ],
-    "image": "halloween/images/p34333.jpg",
-    "url": "https://mozgi.io/en/prompt/p34333",
+    "image": "halloween/images/p34604.jpg",
+    "url": "https://mozgi.io/en/prompt/p34604",
+    "author": "@Yelpin"
+  },
+  {
+    "id": "p34605",
+    "title": "A woman in a black dress and red heels poses back to back with a masked figure in a studio",
+    "model": "GPT Image 2.5",
+    "ratio": "4/5",
+    "needsReference": false,
+    "prompt": "Style and genre:\nPhotorealistic fashion portrait in the spirit of 1990s slasher films and early-2000s glossy shoots, ironic Halloween chic.\n\nVisual effects:\nCompact-camera flash, fine grain, deep shadows, controlled highlights on the mask.\n\nMain subject:\n[reference photo of an adult woman] — preserve identity 100%: face, proportions, skin tone, hair color and individual features exactly as in the reference.\n\nPose and motion:\n[standing back to back with the masked figure inside the spotlight circle, both with arms crossed, she smirks at the camera, the figure turns its mask toward her as if offended].\n\nEnvironment details:\nShort black dress, red high heels, red lipstick. Masked figure in a white ghost-like mask of original design and a black hooded robe.\n\nBackground and setting:\n[dark empty photo studio], spotlight circle.\n\nLighting:\nHard spotlight plus frontal flash fill.\n\nColor palette:\n[saturated red], [deep black], [white], natural skin.\n\nImage quality:\nPhotorealistic, full body, vertical 4:5, sharp faces. No blood, weapons, fear, text or watermark.",
+    "prompt_ru": "Стиль и жанр:\nФотореалистичный fashion-портрет в духе слэшеров 1990-х и глянцевых съёмок начала 2000-х, ироничный хэллоуинский шик.\n\nВизуальные эффекты:\nВспышка компактной камеры, мелкозернистая текстура, глубокие тени, контролируемые блики на маске.\n\nГлавный объект:\n[эталонная фотография взрослой женщины] — сохранить идентичность на 100%: лицо, пропорции, оттенок кожи, цвет волос и индивидуальные черты в точности как на референсе.\n\nПоза и движение:\n[стоит спиной к спине с фигурой в маске внутри круга света, обе скрестили руки, она самодовольно усмехается в камеру, фигура поворачивает маску к ней, словно оскорблённая].\n\nДетали окружения:\nКороткое чёрное платье, красные туфли на высоком каблуке, красная помада. Фигура в маске — в белой маске, похожей на призрачную, оригинального дизайна, и чёрной робе с капюшоном.\n\nФон и обстановка:\n[тёмная пустая фотостудия], круг света.\n\nОсвещение:\nЖёсткий прожектор плюс фронтальная заполняющая вспышка.\n\nЦветовая палитра:\n[насыщенный красный], [глубокий чёрный], [белый], естественный оттенок кожи.\n\nКачество изображения:\nФотореалистичное изображение, в полный рост, вертикальный формат 4:5, лица резкие. Без крови, оружия, страха, текста или водяного знака.",
+    "tags": [
+      "портрет",
+      "фото",
+      "мода",
+      "ужасы",
+      "студия",
+      "полный рост",
+      "вертикально"
+    ],
+    "image": "halloween/images/p34605.jpg",
+    "url": "https://mozgi.io/en/prompt/p34605",
+    "author": "@Yelpin"
+  },
+  {
+    "id": "p34603",
+    "title": "Woman in a black dress and red heels poses in the arms of a white-masked figure in a dark studio",
+    "model": "GPT Image 2.5",
+    "ratio": "4/5",
+    "needsReference": false,
+    "prompt": "Style and genre:\nPhotorealistic fashion portrait in the spirit of 1990s slasher films and early-2000s glossy shoots, ironic Halloween chic.\n\nVisual effects:\nCompact-camera direct flash look, fine grain, crisp spotlight circle, deep shadows, controlled highlights on the white mask, realistic fabric texture.\n\nMain subject:\n[reference photo of an adult woman] — preserve identity 100%: face, proportions, skin tone, hair color and individual features exactly as in the reference, no heavy retouching.\n\nPose and motion:\n[a masked figure in a white ghost-like mask of original design and a black hooded robe holds her in a princess carry, one arm under her knees, one behind her back; she rests one arm around its shoulders, legs crossed at the ankles, face turned to the camera with a mocking confident smile].\n\nEnvironment details:\nShort black dress staying in place, no exposure, no visible underwear. Red high-heeled shoes. Her face fully unobstructed, both figures fully in frame including shoes and hair. Correct grip and anatomy.\n\nBackground and setting:\n[dark empty photo studio], bright spotlight circle on the floor and backdrop.\n\nLighting:\nHard top spotlight plus soft frontal flash fill, darkened edges.\n\nColor palette:\n[saturated red] shoes, [deep black], [white] mask, natural skin.\n\nImage quality:\nPhotorealistic, sharp face, vertical 4:5, both figures in one focal plane. No blood, weapons, injuries, violence, fear, extra limbs, fused bodies, text or watermark.",
+    "prompt_ru": "Стиль и жанр:\nФотореалистичный fashion-портрет в духе слэшеров 1990-х и глянцевых съёмок начала 2000-х, ироничный хэллоуинский шик.\n\nВизуальные эффекты:\nЭффект прямой вспышки компактной камеры, мелкое зерно, чёткий круг светового пятна, глубокие тени, контролируемые блики на белой маске, реалистичная текстура ткани.\n\nГлавный объект:\n[референсное фото взрослой женщины] — сохранить идентичность на 100%: лицо, пропорции, тон кожи, цвет волос и индивидуальные черты в точности как на референсе, без сильной ретуши.\n\nПоза и движение:\n[фигура в белой призракоподобной маске оригинального дизайна и чёрном плаще с капюшоном держит её на руках, как принцессу: одна рука под её коленями, другая за спиной; она обнимает одну из его рук за плечи, ноги скрещены в лодыжках, лицо повёрнуто к камере с насмешливой уверенной улыбкой].\n\nДетали окружения:\nКороткое чёрное платье остаётся на месте, без обнажения, нижнее бельё не видно. Красные туфли на высоком каблуке. Её лицо полностью открыто, обе фигуры целиком в кадре, включая обувь и волосы. Правильный захват и анатомия.\n\nФон и обстановка:\n[тёмная пустая фотостудия], яркий круг светового пятна на полу и фоне.\n\nОсвещение:\nЖёсткий верхний направленный свет плюс мягкое фронтальное заполнение вспышкой, затемнённые края.\n\nЦветовая палитра:\n[насыщенный красный] туфель, [глубокий чёрный], [белая] маска, естественный цвет кожи.\n\nКачество изображения:\nФотореалистичное изображение, резкое лицо, вертикальный формат 4:5, обе фигуры в одной фокальной плоскости. Без крови, оружия, травм, насилия, страха, лишних конечностей, сросшихся тел, текста или водяного знака.",
+    "tags": [
+      "портрет",
+      "фото",
+      "студия",
+      "мода",
+      "ужасы",
+      "вертикально"
+    ],
+    "image": "halloween/images/p34603.jpg",
+    "url": "https://mozgi.io/en/prompt/p34603",
+    "author": "@Yelpin"
+  },
+  {
+    "id": "p34590",
+    "title": "Porcelain dolls with huge eyes stand in milk inside a flooded nursery with cold blue light, creating cinematic horror",
+    "model": "GPT Image 2.0",
+    "ratio": "4/5",
+    "needsReference": false,
+    "prompt": "Style and genre:\nCinematic horror, surrealist installation, high detail clarity.\nVisual effects:\nLiquid physics: a thick white substance resembling milk fills the room up to knee height. Reflections of porcelain faces on the liquid’s mirror-like surface, light refraction effect in a cloudy medium.\nMain subject:\n[a group of old dolls with hypertrophied human eyes]\nPose and movement:\n[the dolls are frozen in a partially submerged state, their heads turned at a 180-degree angle toward the viewer].\nEnvironmental details:\n[children’s rawhide shoes floating in the milk], the walls covered with a layer of damp moss-like mold, the ceiling dotted with hundreds of hanging children’s pacifiers.\nBackground and surroundings:\n[a flooded children’s room with peeling paint on the walls], the windows boarded up, harsh blue light streaming through the gaps.\nLighting:\nCold backlighting creating glowing outlines around the dolls’ hair and emphasizing the viscosity of the milky surface.\nColor palette:\nBase [sterile white], accent [pale blue], details [black pupils].\nImage quality:\nUltra-high resolution 8K, Ray Tracing, perfect sharpness in the porcelain texture.",
+    "prompt_ru": "Стиль и жанр:\nКинематографичный хоррор, сюрреалистичная инсталляция, высокая четкость деталей.\nВизуальные эффекты:\nФизика жидкости: густое белое вещество, напоминающее молоко, заполняет комнату до колен. Отражения фарфоровых лиц в зеркальной поверхности жидкости, эффект преломления света в мутной среде.\nОсновной объект:\n[группа старых кукол с гипертрофированными человеческими глазами]\nПоза и движение:\n[куклы замерли в полупогруженном состоянии, их головы повернуты под углом 180 градусов к зрителю].\nДетали окружения:\n[плавающие в молоке детские ботинки из сырой кожи], стены покрыты слоем влажной плесени, напоминающей мох, потолок усеян сотнями висящих детских сосок.\nФон и окружение:\n[затопленная детская комната с облупившейся краской на стенах], окна заколочены досками, сквозь щели пробивается резкий синий свет.\nОсвещение:\nХолодный контровой свет, создающий сияющие контуры на волосах кукол и подчеркивающий вязкость молочной поверхности.\nЦветовая палитра:\nОснова [стерильно-белый], акцент [бледно-голубой], детали [черный зрачков].\nКачество изображения:\nUltra-high resolution 8K, Ray Tracing, идеальная резкость на текстуре фарфора.",
+    "tags": [
+      "ужасы",
+      "кино",
+      "сюрреализм",
+      "вода",
+      "интерьер",
+      "группа",
+      "свет"
+    ],
+    "image": "halloween/images/p34590.jpg",
+    "url": "https://mozgi.io/en/prompt/p34590",
+    "author": "@Yelpin"
+  },
+  {
+    "id": "p34600",
+    "title": "A puppy in a witch hat sits inside a pumpkin among candy and bats in a festive Halloween studio shoot",
+    "model": "Nano Banana 2.1",
+    "ratio": "9/16",
+    "needsReference": false,
+    "prompt": "Use the puppy from [REFERENCE DOG PHOTO]. Very young puppy under 3 months, realistic professional studio photo, puppy sitting inside an oversized jack-o'-lantern bowl with front paws over the edge, wearing a tiny witch hat and a black velvet bow at the neck, chest and front paws clearly visible, bat props and candy arranged in a semicircle around the bowl, clean solid deep orange background, no gradient, no blur, soft controlled studio lighting, strong trick-or-treat Halloween feel, highly detailed fur, pumpkin and velvet textures.",
+    "prompt_ru": "Используй щенка с [ФОТО СОБАКИ-РЕФЕРЕНСА]. Очень маленький щенок младше 3 месяцев, реалистичная профессиональная студийная фотография, щенок сидит внутри большой миски в виде тыквы-фонаря, передние лапы лежат на краю, на нём крошечная ведьминская шляпа и чёрный бархатный бантик на шее, грудь и передние лапы хорошо видны, вокруг миски полукругом разложены аксессуары в виде летучих мышей и конфеты, чистый однотонный насыщенно-оранжевый фон, без градиента, без размытия, мягкое контролируемое студийное освещение, ярко выраженная хэллоуинская атмосфера «сладость или гадость», высокодетализированный мех, текстуры тыквы и бархата.",
+    "tags": [
+      "фото",
+      "студия",
+      "собака",
+      "костюм",
+      "еда",
+      "вертикально"
+    ],
+    "image": "halloween/images/p34600.jpg",
+    "url": "https://mozgi.io/en/prompt/p34600",
+    "author": "@Yelpin"
+  },
+  {
+    "id": "p34596",
+    "title": "Conceptual high-heeled shoe made of living skin and pulsing muscles, with gold piercings on a black podium",
+    "model": "Nano Banana 2.1",
+    "ratio": "3/4",
+    "needsReference": false,
+    "prompt": "Style and genre:\nHigh-fashion editorial, macro-realism of materials, conceptual footwear design.\nVisual effects:\nLeather texture with tattoos and scars, exposed areas of pink muscle tissue. The use of gold piercings as hardware. A “sweaty” skin effect with tiny glistening droplets.\nMain subject:\n[high-heeled shoes made from living human skin and contracting muscles]\nPose and movement:\n[the shoes stand on a runway, the muscles inside the heels visibly pulsing to maintain balance].\nEnvironmental details:\nA stiletto heel made from a sharp shin bone, an insole made from a soft tongue, gold piercing rings threaded through the “skin” of the shoes.\nBackground and surroundings:\n[a polished black obsidian runway], reflecting the blood-red texture of the sole.\nLighting:\nHard runway lighting (spotlight), creating bright highlights on the gold ornaments and the moist surface of the muscles.\nColor palette:\nContrasting scheme of [black], [gold], [bright red], [flesh tone].\nImage quality:\nUltra-high resolution 8K, Octane Render style, perfect sharpness on the piercing details.",
+    "prompt_ru": "Стиль и жанр:\nHigh-fashion эдиториал, макро-реализм материалов, концептуальный дизайн обуви.\nВизуальные эффекты:\nТекстура кожи с татуировками и шрамами, открытые участки розовой мышечной ткани. Использование золотых пирсингов в качестве фурнитуры. Эффект «потной» кожи с мелкими блестящими каплями.\nОсновной объект:\n[туфли на шпильках, сделанные из живой человеческой кожи и сокращающихся мышц]\nПоза и движение:\n[обувь стоит на подиуме, мышцы внутри каблука заметно пульсируют, удерживая равновесие].\nДетали окружения:\nШпилька-каблук из острой берцовой кости, стелька из мягкого языка, золотые кольца пирсинга, продетые сквозь «кожу» обуви.\nФон и окружение:\n[подиум из полированного чёрного обсидиана], отражающий кроваво-красную текстуру подошвы.\nОсвещение:\nЖесткий подиумный свет (spotlight), создающий яркие блики на золотых украшениях и влажной поверхности мышц.\nЦветовая палитра:\nКонтрастная схема [черный], [золото], [ярко-красный], [телесный].\nКачество изображения:\nUltra-high resolution 8K, Octane Render style, идеальная резкость на деталях пирсинга.",
+    "tags": [
+      "макро",
+      "обувь",
+      "золото",
+      "кожа",
+      "реализм",
+      "концепт-арт",
+      "3D"
+    ],
+    "image": "halloween/images/p34596.jpg",
+    "url": "https://mozgi.io/en/prompt/p34596",
+    "author": "@Yelpin"
+  },
+  {
+    "id": "p34594",
+    "title": "A giant living eye watches from a cramped bathroom mirror as a black tear falls above a jawbone sink in surreal horror",
+    "model": "GPT Image 2.0",
+    "ratio": "3/4",
+    "needsReference": false,
+    "prompt": "Style and genre:\nPsychological horror, surreal photography in a bathroom, uncanny valley aesthetic.\nVisual effects:\nThe mirror surface behaves like liquid: the pupil in the center of the mirror pulses and dilates. Wet sheen on the mirror's cornea, reflections distorted by spherical aberration.\nMain subject:\n[a bathroom mirror representing a gigantic living human pupil]\nPose and movement:\n[the eye in the mirror stares intently at the viewer, the eyelid-frame slowly blinks, releasing a thick black tear].\nEnvironment details:\n[a sink made of jawbone], warm saliva flows from the faucet, walls covered in the texture of the lining of a mouth.\nBackground and surroundings:\n[a cramped bathroom], where the air seems thick and humid, and the walls slowly constrict.\nLighting:\nA single flickering light fixture above the mirror, creating a strobe effect and pulling details of the mirror's iris out of the darkness.\nColor palette:\nBase [charcoal black], accent [bright red of the capillaries], details [dirty white].\nImage quality:\nUltra-high resolution 8K, Ray Tracing, perfect sharpness on the eye texture, RAW.",
+    "prompt_ru": "Стиль и жанр:\nПсихологический хоррор, сюрреалистичная фотография в ванной комнате, эстетика «зловещей долины».\nВизуальные эффекты:\nЗеркальная поверхность ведет себя как жидкость: зрачок в центре зеркала пульсирует и расширяется. Влажный блеск роговицы зеркала, отражения, искаженные сферической аберрацией.\nОсновной объект:\n[зеркало в ванной, представляющее собой гигантский живой человеческий зрачок]\nПоза и движение:\n[глаз в зеркале пристально следит за зрителем, веко-рама медленно мигает, выделяя густую черную слезу].\nДетали окружения:\n[раковина из челюстной кости], из крана течет теплая слюна, стены покрыты текстурой слизистой оболочки рта.\nФон и окружение:\n[тесная ванная комната], где воздух кажется густым и влажным, а стены медленно сужаются.\nОсвещение:\nОдин мигающий светильник над зеркалом, создающий эффект стробоскопа и выхватывающий из темноты детали радужки зеркала.\nЦветовая палитра:\nОснова [угольно-черный], акцент [ярко-красный капилляров], детали [грязно-белый].\nКачество изображения:\nUltra-high resolution 8K, Ray Tracing, идеальная резкость на текстуре глаза, RAW.",
+    "tags": [
+      "ужасы",
+      "сюрреализм",
+      "фото",
+      "вертикально",
+      "интерьер",
+      "макро"
+    ],
+    "image": "halloween/images/p34594.jpg",
+    "url": "https://mozgi.io/en/prompt/p34594",
     "author": "@Yelpin"
   }
 ]

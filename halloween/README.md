@@ -1,14 +1,182 @@
-# 🎃 Halloween — 35 AI image prompts
+# 🎃 Halloween — 42 AI image prompts
 
-Author: **@Yelpin** · Models: GPT Image 2.5, Nano Banana 2.1 · License: [CC BY 4.0](../LICENSE)
+Author: **@Yelpin** · Models: GPT Image 2.5, Nano Banana 2.1, GPT Image 2.0 · License: [CC BY 4.0](../LICENSE)
 
-Most prompts use a **[reference photo]** slot: attach your own photo and the model keeps the face, swapping only the scene, outfit and light. Values in `[square brackets]` are meant to be replaced.
+Prompts marked **Needs: reference photo** use a **[reference photo]** slot: attach your own photo and the model keeps the face, swapping only the scene, outfit and light. Values in `[square brackets]` are meant to be replaced.
 
 More Halloween prompts from other creators (200+): **[mozgi.io → Halloween](https://mozgi.io/Prompt/?c=halloween&lang=en)**
 
 ---
 
-## 01. A girl hugs Chucky on a windowsill as rain pours outside and neon glows
+## 01. A woman sits beside Chucky at a bedroom vanity, surrounded by neon and glowing pumpkins in a retro 1980s horror-comedy scene
+
+<a href="https://mozgi.io/en/prompt/p34659"><img src="images/p34659.jpg" width="320" alt="A woman sits beside Chucky at a bedroom vanity, surrounded by neon and glowing pumpkins in a retro 1980s horror-comedy scene"></a>
+
+**Model:** GPT Image 2.5 · **Aspect ratio:** 4/5 · **Needs:** reference photo · [Open on mozgi.io](https://mozgi.io/en/prompt/p34659)
+
+```text
+Style and genre:
+1980s horror-comedy film still, retro domestic thriller photography, 35mm film aesthetic.
+Visual effects:
+Double reflection in a vintage mirror, soft pink neon tube glow, specular glints on the doll's glass eyes, fine analog film grain.
+Main subject:
+[reference photo] — preserve identity 100%, without any changes to facial features, shape, or proportions; long loose hair styled naturally.
+Pose and motion:
+[sitting before a bedroom vanity table, leaning one cheek on a hand, calm unreadable smile; the Chucky doll sits propped on the wooden counter beside her holding an antique hairbrush].
+Environment details:
+Wearing [the same vintage rainbow-striped fitted T-shirt under classic blue denim bib overalls]. On the tabletop: vintage cosmetic bottles, miniature pumpkins, scattered wrapped hard candies. A glowing violet neon sign reading "SPOOKY" is reflected in the corner of the mirror.
+Background and setting:
+[retro bedroom vanity nook], dark floral wallpaper, warm fairy lights woven around the mirror frame.
+Lighting:
+Warm amber glow from vanity tungsten bulbs mixed with a deep violet neon edge light defining the shoulders and hair.
+Color palette:
+Saturated retro tones, dominant [deep violet and dark mahogany], accents [bright orange pumpkin glow and candy rainbow stripes].
+Image quality:
+Ultra-high resolution 8K, Path Tracing, RAW, 4:5 aspect ratio, 50mm vintage lens rendering, sharp focus on facial features and doll texture.
+```
+
+<details><summary>Русская версия</summary>
+
+```text
+Стиль и жанр:
+Кадр из фильма ужасов-комедии 1980-х годов, ретрофотография в духе домашнего триллера, эстетика 35mm плёнки.
+Визуальные эффекты:
+Двойное отражение в винтажном зеркале, мягкое свечение розовой неоновой трубки, бликующие отблески в стеклянных глазах куклы, мелкое зерно аналоговой плёнки.
+Главный объект:
+[референсное фото] — сохранить идентичность на 100%, без каких-либо изменений черт лица, формы или пропорций; длинные распущенные волосы уложены естественно.
+Поза и движение:
+[сидит перед туалетным столиком в спальне, опираясь щекой на одну руку, с спокойной нечитаемой улыбкой; кукла Chucky сидит, прислонившись к деревянной столешнице рядом с ней, и держит старинную расчёску].
+Детали окружения:
+На ней [та же винтажная облегающая футболка в радужную полоску под классическим синим джинсовым комбинезоном с нагрудником]. На столешнице: винтажные флаконы с косметикой, миниатюрные тыквы, рассыпанные леденцы в обёртках. В углу зеркала отражается светящаяся фиолетовая неоновая вывеска с надписью "SPOOKY".
+Фон и обстановка:
+[ретро-уголок спальни с туалетным столиком], тёмные обои с цветочным узором, тёплые гирлянды, оплетённые вокруг рамы зеркала.
+Освещение:
+Тёплое янтарное свечение от вольфрамовых ламп туалетного столика, смешанное с глубоким фиолетовым неоновым контровым светом, очерчивающим плечи и волосы.
+Цветовая палитра:
+Насыщенные ретро-тона, доминирующие [глубокий фиолетовый и тёмное красное дерево], акценты [ярко-оранжевое свечение тыкв и радужные полоски конфет].
+Качество изображения:
+Сверхвысокое разрешение 8K, Path Tracing, RAW, соотношение сторон 4:5, визуализация винтажным объективом 50mm, резкий фокус на чертах лица и текстуре куклы.
+```
+
+</details>
+
+[↑ Back to top](#-halloween--42-ai-image-prompts)
+
+---
+
+## 02. A woman leans over a glowing pumpkin as Chucky peeks out behind it in a warm festive room
+
+<a href="https://mozgi.io/en/prompt/p34662"><img src="images/p34662.jpg" width="320" alt="A woman leans over a glowing pumpkin as Chucky peeks out behind it in a warm festive room"></a>
+
+**Model:** GPT Image 2.5 · **Aspect ratio:** 4/5 · **Needs:** reference photo · [Open on mozgi.io](https://mozgi.io/en/prompt/p34662)
+
+```text
+Style and genre:
+Character-driven macro portrait, warm autumn holiday editorial, tactile cinema still.
+Visual effects:
+Warm candle flame halation, translucent orange glow through carved pumpkin walls, specular reflections on damp pumpkin seeds, shallow depth of field.
+Main subject:
+[reference photo] — preserve identity 100%, without any changes to facial features, shape, or proportions; hair tucked loosely behind one ear.
+Pose and motion:
+[close head-and-shoulders composition, resting her chin on her hands over the rim of an open hollow pumpkin, deadpan calm gaze; Chucky peeks out from right behind the pumpkin with wide blue glass eyes].
+Environment details:
+Wearing [the collar and straps of the rainbow-striped tee and denim overalls]. Carved pumpkin meat, loose stringy pulp, and glossy seeds resting on a tray in the immediate foreground; fake spiderwebs stretched across the background.
+Background and setting:
+[warm festive bedroom corner in deep optical blur], distant soft circles of fairy lights and dark wood panels.
+Lighting:
+Intense internal warm amber glow radiating directly upward from inside the pumpkin carving, sculpting the lower jaw and facial contours.
+Color palette:
+Warm harvest tones, dominant [vibrant pumpkin orange and candle amber], neutral contrast [denim blue], pale ivory accents.
+Image quality:
+Ultra-high resolution 8K, RAW, Path Tracing, 4:5 aspect ratio, 85mm macro lens at f/2.0, crystal-clear focus on the eyes and pumpkin pulp.
+```
+
+<details><summary>Русская версия</summary>
+
+```text
+Стиль и жанр:
+Макропортрет с акцентом на персонаже, тёплая осенняя праздничная редакционная съёмка, тактильный кадр из кино.
+Визуальные эффекты:
+Тёплое свечение вокруг пламени свечи, полупрозрачное оранжевое сияние сквозь резные стенки тыквы, зеркальные блики на влажных тыквенных семечках, малая глубина резкости.
+Главный объект:
+[референсное фото] — сохранить идентичность на 100%, без каких-либо изменений черт лица, формы или пропорций; волосы небрежно убраны за одно ухо.
+Поза и движение:
+[крупная композиция с головой и плечами, она опирается подбородком на руки над краем открытой выдолбленной тыквы, невозмутимый спокойный взгляд; Chucky выглядывает справа из-за тыквы, широко раскрыв голубые стеклянные глаза].
+Детали окружения:
+На ней [воротник радужно-полосатой футболки и лямки джинсового комбинезона]. Мякоть вырезанной тыквы, разрозненная волокнистая мякоть и глянцевые семечки лежат на подносе прямо на переднем плане; на заднем плане натянута искусственная паутина.
+Фон и обстановка:
+[тёплый праздничный уголок спальни в глубоком оптическом размытии], вдали мягкие световые круги от гирлянд и панели из тёмного дерева.
+Освещение:
+Интенсивное внутреннее тёплое янтарное свечение, исходящее прямо вверх изнутри вырезанной тыквы и подчёркивающее нижнюю челюсть и контуры лица.
+Цветовая палитра:
+Тёплые осенние тона, доминирующие [яркий тыквенный оранжевый и янтарный цвет свечи], нейтральный контраст [джинсовый синий], акценты бледной слоновой кости.
+Качество изображения:
+Сверхвысокое разрешение 8K, RAW, Path Tracing, соотношение сторон 4:5, макрообъектив 85mm при f/2.0, кристально чёткий фокус на глазах и тыквенной мякоти.
+```
+
+</details>
+
+[↑ Back to top](#-halloween--42-ai-image-prompts)
+
+---
+
+## 03. High-fashion portrait of a woman with geometric makeup and silver stitches across her face and neck
+
+<a href="https://mozgi.io/en/prompt/p34664"><img src="images/p34664.jpg" width="320" alt="High-fashion portrait of a woman with geometric makeup and silver stitches across her face and neck"></a>
+
+**Model:** GPT Image 2.5 · **Aspect ratio:** 4/5 · **Needs:** reference photo · [Open on mozgi.io](https://mozgi.io/en/prompt/p34664)
+
+```text
+Style and genre:
+High-fashion theatrical beauty editorial, avant-garde porcelain character study, modern studio portraiture.
+Visual effects:
+Subtle subsurface scattering through facial skin, raised 3D surface relief along cosmetic silicone stitch prosthetics, contrasting matte and satin cosmetic textures over real skin pores, crisp reflections in the irises.
+Main subject:
+[reference photo] — preserve identity 100%, without any changes to facial structure, bone geometry, eyes, nose, lips, jaw, natural skin tone, or authentic age; natural hair texture, color, and hairline fully preserved.
+Pose and motion:
+[direct centered head-and-shoulders portrait, shoulders squared, chin held level, calm penetrating gaze locked onto the camera lens].
+Environment details:
+Wearing [a minimalist high-neck structured black crewneck top]. The face, neck, and upper chest are partitioned into distinct artistic geometric blocks of chalk ivory, dusty slate blue, pale lilac, and warm terracotta; each color zone is demarcated by fine black cosmetic boundary lines and bridged across with pronounced raised decorative silver cross-stitches and thread staples made of theatrical makeup prosthetics; subtle neutral contouring, delicate dotted pattern accents across the cheekbones, and rich deep-plum lip tone; completely clean editorial cosmetics free of wounds, abrasions, or blood.
+Background and setting:
+[neutral matte charcoal studio background], smooth optical falloff into soft shadow, free of environmental props.
+Lighting:
+Sculptural multi-point studio lighting: overhead key light carving the brow and cheekbones, highlighting the three-dimensional ridges of the silver stitches, subtle dual-side fill balancing the colored skin panels.
+Color palette:
+Avant-garde color-block scheme, dominant [matte charcoal and solid black], juxtaposed cosmetic panels [chalk ivory, slate blue, lilac, terracotta], rich focal accent [deep plum on the lips].
+Image quality:
+Ultra-high resolution 8K, Path Tracing, RAW, 4:5 aspect ratio, 85mm portrait prime lens at f/2.8, razor-sharp focus on the eyes, decorative stitch relief, and skin texture.
+```
+
+<details><summary>Русская версия</summary>
+
+```text
+Стиль и жанр:
+Глянцевый театральный бьюти-эдиториал в стиле высокой моды, авангардное исследование фарфорового персонажа, современная студийная портретная фотография.
+Визуальные эффекты:
+Тонкое подповерхностное рассеяние света в коже лица, рельефная 3D-текстура вдоль косметических силиконовых протезов, имитирующих швы, контрастные матовые и сатиновые косметические текстуры поверх пор натуральной кожи, чёткие отражения в радужках глаз.
+Главный объект:
+[референсное фото] — сохранить идентичность на 100%, без каких-либо изменений структуры лица, геометрии костей, глаз, носа, губ, челюсти, естественного тона кожи или настоящего возраста; полностью сохранить естественную текстуру и цвет волос, а также линию роста волос.
+Поза и движение:
+[прямой фронтальный портрет головы и плеч по центру, плечи расправлены, подбородок держится ровно, спокойный пронизывающий взгляд направлен прямо в объектив камеры].
+Детали окружения:
+На модели [минималистичный структурированный чёрный топ с круглым высоким воротом]. Лицо, шея и верхняя часть груди разделены на отдельные художественные геометрические блоки мелового цвета слоновой кости, пыльного сланцево-синего, бледно-сиреневого и тёплого терракотового; каждая цветовая зона очерчена тонкими чёрными косметическими разделительными линиями и соединена рельефными декоративными серебряными крестообразными стежками и скобами из нитей, выполненными из театральных гримёрных протезов; лёгкая нейтральная коррекция контуров, изящные точечные узоры на скулах и насыщенный тёмно-сливовый оттенок губ; полностью чистый редакционный макияж без ран, ссадин и крови.
+Фон и обстановка:
+[нейтральный матовый угольно-серый студийный фон], плавное оптическое затухание в мягкую тень, без элементов декора и предметов окружения.
+Освещение:
+Скульптурное многоточечное студийное освещение: верхний ключевой свет вычерчивает брови и скулы, подчёркивая трёхмерные рёбра серебряных стежков; мягкий заполняющий свет с двух сторон уравновешивает цветные панели кожи.
+Цветовая палитра:
+Авангардная схема цветовых блоков, доминирующие [матовый угольно-серый и насыщенный чёрный], контрастные косметические панели [меловой цвет слоновой кости, сланцево-синий, сиреневый, терракотовый], насыщенный акцент [тёмно-сливовый на губах].
+Качество изображения:
+Сверхвысокое разрешение 8K, Path Tracing, RAW, соотношение сторон 4:5, портретный объектив с фиксированным фокусным расстоянием 85mm при f/2.8, предельно резкий фокус на глазах, рельефе декоративных стежков и текстуре кожи.
+```
+
+</details>
+
+[↑ Back to top](#-halloween--42-ai-image-prompts)
+
+---
+
+## 04. A girl hugs Chucky on a windowsill as rain pours outside and neon glows
 
 <a href="https://mozgi.io/en/prompt/p34663"><img src="images/p34663.jpg" width="320" alt="A girl hugs Chucky on a windowsill as rain pours outside and neon glows"></a>
 
@@ -60,11 +228,11 @@ Ultra-high resolution 8K, Path Tracing, RAW, 4:5 aspect ratio, 50mm focal depth,
 
 </details>
 
-[↑ Back to top](#-halloween--35-ai-image-prompts)
+[↑ Back to top](#-halloween--42-ai-image-prompts)
 
 ---
 
-## 02. A girl and Chucky watch TV in a dark bedroom beside a bucket of popcorn
+## 05. A girl and Chucky watch TV in a dark bedroom beside a bucket of popcorn
 
 <a href="https://mozgi.io/en/prompt/p34661"><img src="images/p34661.jpg" width="320" alt="A girl and Chucky watch TV in a dark bedroom beside a bucket of popcorn"></a>
 
@@ -116,11 +284,11 @@ Ultra-high resolution 8K, RAW, Path Tracing, 4:5 aspect ratio, 50mm portrait pri
 
 </details>
 
-[↑ Back to top](#-halloween--35-ai-image-prompts)
+[↑ Back to top](#-halloween--42-ai-image-prompts)
 
 ---
 
-## 03. A woman with a lollipop lies beside Chucky on a red satin bed among Halloween decorations
+## 06. A woman with a lollipop lies beside Chucky on a red satin bed among Halloween decorations
 
 <a href="https://mozgi.io/en/prompt/p34660"><img src="images/p34660.jpg" width="320" alt="A woman with a lollipop lies beside Chucky on a red satin bed among Halloween decorations"></a>
 
@@ -172,11 +340,11 @@ Ultra-high resolution 8K, Path Tracing, RAW, 4:5 aspect ratio, wide 35mm distort
 
 </details>
 
-[↑ Back to top](#-halloween--35-ai-image-prompts)
+[↑ Back to top](#-halloween--42-ai-image-prompts)
 
 ---
 
-## 04. A woman holding a lollipop sits beside Chucky in a Halloween bedroom
+## 07. A woman holding a lollipop sits beside Chucky in a Halloween bedroom
 
 <a href="https://mozgi.io/en/prompt/p34658"><img src="images/p34658.jpg" width="320" alt="A woman holding a lollipop sits beside Chucky in a Halloween bedroom"></a>
 
@@ -228,11 +396,11 @@ Ultra-high resolution 8K, Path Tracing, RAW, 4:5 aspect ratio, 50mm portrait dep
 
 </details>
 
-[↑ Back to top](#-halloween--35-ai-image-prompts)
+[↑ Back to top](#-halloween--42-ai-image-prompts)
 
 ---
 
-## 05. Woman holding a glowing pumpkin on a rural farm at blue hour
+## 08. Woman holding a glowing pumpkin on a rural farm at blue hour
 
 <a href="https://mozgi.io/en/prompt/p34657"><img src="images/p34657.jpg" width="320" alt="Woman holding a glowing pumpkin on a rural farm at blue hour"></a>
 
@@ -284,11 +452,11 @@ Ultra-high resolution 8K, Path Tracing, RAW, 4:5 aspect ratio, 50mm portrait pri
 
 </details>
 
-[↑ Back to top](#-halloween--35-ai-image-prompts)
+[↑ Back to top](#-halloween--42-ai-image-prompts)
 
 ---
 
-## 06. A woman in a golden gown dances with a skeleton in a historic ballroom
+## 09. A woman in a golden gown dances with a skeleton in a historic ballroom
 
 <a href="https://mozgi.io/en/prompt/p34656"><img src="images/p34656.jpg" width="320" alt="A woman in a golden gown dances with a skeleton in a historic ballroom"></a>
 
@@ -340,11 +508,11 @@ Ultra-high resolution 8K, Path Tracing, RAW, 4:5 aspect ratio, 50mm portrait dep
 
 </details>
 
-[↑ Back to top](#-halloween--35-ai-image-prompts)
+[↑ Back to top](#-halloween--42-ai-image-prompts)
 
 ---
 
-## 07. A man holds a lighter as Pennywise looms over his shoulder in a pitch-black space
+## 10. A man holds a lighter as Pennywise looms over his shoulder in a pitch-black space
 
 <a href="https://mozgi.io/en/prompt/p34655"><img src="images/p34655.jpg" width="320" alt="A man holds a lighter as Pennywise looms over his shoulder in a pitch-black space"></a>
 
@@ -396,11 +564,11 @@ Ultra-high resolution 8K, Path Tracing, RAW, 4:5 aspect ratio, 50mm vintage lens
 
 </details>
 
-[↑ Back to top](#-halloween--35-ai-image-prompts)
+[↑ Back to top](#-halloween--42-ai-image-prompts)
 
 ---
 
-## 08. A woman holds a Chucky doll on the floor of an abandoned 1980s bedroom
+## 11. A woman holds a Chucky doll on the floor of an abandoned 1980s bedroom
 
 <a href="https://mozgi.io/en/prompt/p34654"><img src="images/p34654.jpg" width="320" alt="A woman holds a Chucky doll on the floor of an abandoned 1980s bedroom"></a>
 
@@ -452,11 +620,11 @@ Ultra-high resolution 8K, Path Tracing, RAW, 4:5 aspect ratio, 35mm lens renderi
 
 </details>
 
-[↑ Back to top](#-halloween--35-ai-image-prompts)
+[↑ Back to top](#-halloween--42-ai-image-prompts)
 
 ---
 
-## 09. A veiled woman in a black mourning gown holds a dried bouquet in a misty swamp at twilight
+## 12. A veiled woman in a black mourning gown holds a dried bouquet in a misty swamp at twilight
 
 <a href="https://mozgi.io/en/prompt/p34651"><img src="images/p34651.jpg" width="320" alt="A veiled woman in a black mourning gown holds a dried bouquet in a misty swamp at twilight"></a>
 
@@ -508,11 +676,11 @@ Ultra-high resolution 8K, Path Tracing, RAW, 4:5 aspect ratio, 85mm medium portr
 
 </details>
 
-[↑ Back to top](#-halloween--35-ai-image-prompts)
+[↑ Back to top](#-halloween--42-ai-image-prompts)
 
 ---
 
-## 10. A woman with split-dyed hair smokes in a fur coat at a wet midnight intersection
+## 13. A woman with split-dyed hair smokes in a fur coat at a wet midnight intersection
 
 <a href="https://mozgi.io/en/prompt/p34650"><img src="images/p34650.jpg" width="320" alt="A woman with split-dyed hair smokes in a fur coat at a wet midnight intersection"></a>
 
@@ -564,11 +732,11 @@ Ultra-high resolution 8K, Path Tracing, RAW, 4:5 aspect ratio, 50mm portrait len
 
 </details>
 
-[↑ Back to top](#-halloween--35-ai-image-prompts)
+[↑ Back to top](#-halloween--42-ai-image-prompts)
 
 ---
 
-## 11. A woman in a black leather trench coat and sunglasses stands in a rainy concrete underpass
+## 14. A woman in a black leather trench coat and sunglasses stands in a rainy concrete underpass
 
 <a href="https://mozgi.io/en/prompt/p34649"><img src="images/p34649.jpg" width="320" alt="A woman in a black leather trench coat and sunglasses stands in a rainy concrete underpass"></a>
 
@@ -620,11 +788,11 @@ Ultra-high resolution 8K, RAW, Path Tracing, 4:5 aspect ratio, 50mm prime lens a
 
 </details>
 
-[↑ Back to top](#-halloween--35-ai-image-prompts)
+[↑ Back to top](#-halloween--42-ai-image-prompts)
 
 ---
 
-## 12. A woman with green hair in an emerald blazer stands in a rainy alley with neon reflections
+## 15. A woman with green hair in an emerald blazer stands in a rainy alley with neon reflections
 
 <a href="https://mozgi.io/en/prompt/p34648"><img src="images/p34648.jpg" width="320" alt="A woman with green hair in an emerald blazer stands in a rainy alley with neon reflections"></a>
 
@@ -676,11 +844,11 @@ Ultra-high resolution 8K, Path Tracing, RAW, 4:5 aspect ratio, 35mm wide lens at
 
 </details>
 
-[↑ Back to top](#-halloween--35-ai-image-prompts)
+[↑ Back to top](#-halloween--42-ai-image-prompts)
 
 ---
 
-## 13. A woman in a ruff and corset stares into the camera on a rainy carnival street
+## 16. A woman in a ruff and corset stares into the camera on a rainy carnival street
 
 <a href="https://mozgi.io/en/prompt/p34647"><img src="images/p34647.jpg" width="320" alt="A woman in a ruff and corset stares into the camera on a rainy carnival street"></a>
 
@@ -732,11 +900,11 @@ Ultra-high resolution 8K, RAW, Path Tracing, 4:5 aspect ratio, 50mm lens at f/1.
 
 </details>
 
-[↑ Back to top](#-halloween--35-ai-image-prompts)
+[↑ Back to top](#-halloween--42-ai-image-prompts)
 
 ---
 
-## 14. A dark fashion portrait of a woman in a black dress by an iron gate, with a raven and mist
+## 17. A dark fashion portrait of a woman in a black dress by an iron gate, with a raven and mist
 
 <a href="https://mozgi.io/en/prompt/p34646"><img src="images/p34646.jpg" width="320" alt="A dark fashion portrait of a woman in a black dress by an iron gate, with a raven and mist"></a>
 
@@ -788,11 +956,11 @@ Ultra-high resolution 8K, Path Tracing, RAW, 4:5 aspect ratio, 80mm lens renderi
 
 </details>
 
-[↑ Back to top](#-halloween--35-ai-image-prompts)
+[↑ Back to top](#-halloween--42-ai-image-prompts)
 
 ---
 
-## 15. A woman applies crimson lipstick at an antique vanity while a ghostly figure appears in the mirror
+## 18. A woman applies crimson lipstick at an antique vanity while a ghostly figure appears in the mirror
 
 <a href="https://mozgi.io/en/prompt/p34643"><img src="images/p34643.jpg" width="320" alt="A woman applies crimson lipstick at an antique vanity while a ghostly figure appears in the mirror"></a>
 
@@ -844,11 +1012,11 @@ Ultra-high resolution 8K, Path Tracing, RAW, 4:5 aspect ratio, 50mm portrait dep
 
 </details>
 
-[↑ Back to top](#-halloween--35-ai-image-prompts)
+[↑ Back to top](#-halloween--42-ai-image-prompts)
 
 ---
 
-## 16. A woman blows a pink bubble on the phone in a kitchen while Ghostface watches through the window
+## 19. A woman blows a pink bubble on the phone in a kitchen while Ghostface watches through the window
 
 <a href="https://mozgi.io/en/prompt/p34642"><img src="images/p34642.jpg" width="320" alt="A woman blows a pink bubble on the phone in a kitchen while Ghostface watches through the window"></a>
 
@@ -900,11 +1068,11 @@ Ultra-high resolution 8K, Path Tracing, RAW, 4:5 aspect ratio, 50mm vintage lens
 
 </details>
 
-[↑ Back to top](#-halloween--35-ai-image-prompts)
+[↑ Back to top](#-halloween--42-ai-image-prompts)
 
 ---
 
-## 17. A woman talks on a retro phone in a 1990s kitchen as Jason Voorhees lurks in the hallway
+## 20. A woman talks on a retro phone in a 1990s kitchen as Jason Voorhees lurks in the hallway
 
 <a href="https://mozgi.io/en/prompt/p34641"><img src="images/p34641.jpg" width="320" alt="A woman talks on a retro phone in a 1990s kitchen as Jason Voorhees lurks in the hallway"></a>
 
@@ -956,11 +1124,11 @@ Ultra-high resolution 8K, Path Tracing, RAW, 4:5 aspect ratio, 35mm lens depth o
 
 </details>
 
-[↑ Back to top](#-halloween--35-ai-image-prompts)
+[↑ Back to top](#-halloween--42-ai-image-prompts)
 
 ---
 
-## 18. A man holds a worn hockey mask beside his face in a dark smoky studio
+## 21. A man holds a worn hockey mask beside his face in a dark smoky studio
 
 <a href="https://mozgi.io/en/prompt/p34640"><img src="images/p34640.jpg" width="320" alt="A man holds a worn hockey mask beside his face in a dark smoky studio"></a>
 
@@ -1012,11 +1180,11 @@ Ultra-high resolution 8K, Path Tracing, RAW, 4:5 aspect ratio, 85mm portrait dep
 
 </details>
 
-[↑ Back to top](#-halloween--35-ai-image-prompts)
+[↑ Back to top](#-halloween--42-ai-image-prompts)
 
 ---
 
-## 19. Portrait of a woman with a crimson balloon and clown makeup in Victorian gothic style
+## 22. Portrait of a woman with a crimson balloon and clown makeup in Victorian gothic style
 
 <a href="https://mozgi.io/en/prompt/p34639"><img src="images/p34639.jpg" width="320" alt="Portrait of a woman with a crimson balloon and clown makeup in Victorian gothic style"></a>
 
@@ -1068,11 +1236,11 @@ Ultra-high resolution 8K, Path Tracing, RAW, 4:5 aspect ratio, 85mm portrait len
 
 </details>
 
-[↑ Back to top](#-halloween--35-ai-image-prompts)
+[↑ Back to top](#-halloween--42-ai-image-prompts)
 
 ---
 
-## 20. A woman in a yellow raincoat sits in the rain beside Pennywise and a red balloon
+## 23. A woman in a yellow raincoat sits in the rain beside Pennywise and a red balloon
 
 <a href="https://mozgi.io/en/prompt/p34638"><img src="images/p34638.jpg" width="320" alt="A woman in a yellow raincoat sits in the rain beside Pennywise and a red balloon"></a>
 
@@ -1124,11 +1292,11 @@ Ultra-high resolution 8K, RAW, Path Tracing, 4:5 aspect ratio, 85mm focal length
 
 </details>
 
-[↑ Back to top](#-halloween--35-ai-image-prompts)
+[↑ Back to top](#-halloween--42-ai-image-prompts)
 
 ---
 
-## 21. A woman watches TV with a bowl of popcorn as Ghostface stands in the doorway of her 1990s living room
+## 24. A woman watches TV with a bowl of popcorn as Ghostface stands in the doorway of her 1990s living room
 
 <a href="https://mozgi.io/en/prompt/p34637"><img src="images/p34637.jpg" width="320" alt="A woman watches TV with a bowl of popcorn as Ghostface stands in the doorway of her 1990s living room"></a>
 
@@ -1180,11 +1348,11 @@ Ultra-high resolution 8K, Path Tracing, RAW, 4:5 aspect ratio, 35mm lens depth o
 
 </details>
 
-[↑ Back to top](#-halloween--35-ai-image-prompts)
+[↑ Back to top](#-halloween--42-ai-image-prompts)
 
 ---
 
-## 22. A man in a black jacket drinks a milkshake with Ghostface and Pennywise at a diner table
+## 25. A man in a black jacket drinks a milkshake with Ghostface and Pennywise at a diner table
 
 <a href="https://mozgi.io/en/prompt/p34636"><img src="images/p34636.jpg" width="320" alt="A man in a black jacket drinks a milkshake with Ghostface and Pennywise at a diner table"></a>
 
@@ -1236,11 +1404,11 @@ Ultra-high resolution 8K, Path Tracing, RAW, 4:5 aspect ratio, distortion-free w
 
 </details>
 
-[↑ Back to top](#-halloween--35-ai-image-prompts)
+[↑ Back to top](#-halloween--42-ai-image-prompts)
 
 ---
 
-## 23. Man with a milkshake between Ghostface and Pennywise in a neon diner
+## 26. Man with a milkshake between Ghostface and Pennywise in a neon diner
 
 <a href="https://mozgi.io/en/prompt/p34635"><img src="images/p34635.jpg" width="320" alt="Man with a milkshake between Ghostface and Pennywise in a neon diner"></a>
 
@@ -1292,11 +1460,11 @@ Ultra-high resolution 8K, RAW, Path Tracing, 4:5 aspect ratio, 85mm portrait len
 
 </details>
 
-[↑ Back to top](#-halloween--35-ai-image-prompts)
+[↑ Back to top](#-halloween--42-ai-image-prompts)
 
 ---
 
-## 24. A person with a milkshake sits between Ghostface and Pennywise in a neon 1990s diner
+## 27. A person with a milkshake sits between Ghostface and Pennywise in a neon 1990s diner
 
 <a href="https://mozgi.io/en/prompt/p34634"><img src="images/p34634.jpg" width="320" alt="A person with a milkshake sits between Ghostface and Pennywise in a neon 1990s diner"></a>
 
@@ -1348,67 +1516,11 @@ Ultra-high resolution 8K, Path Tracing, RAW, 4:5 aspect ratio, 35mm lens renderi
 
 </details>
 
-[↑ Back to top](#-halloween--35-ai-image-prompts)
+[↑ Back to top](#-halloween--42-ai-image-prompts)
 
 ---
 
-## 25. A man in a worn hat and bladed glove stares into the lens in a dark horror portrait
-
-<a href="https://mozgi.io/en/prompt/p34631"><img src="images/p34631.jpg" width="320" alt="A man in a worn hat and bladed glove stares into the lens in a dark horror portrait"></a>
-
-**Model:** GPT Image 2.5 · **Aspect ratio:** 4/5 · **Needs:** reference photo · [Open on mozgi.io](https://mozgi.io/en/prompt/p34631)
-
-```text
-Style and genre:
-Cinematic dark editorial horror portrait, ultra-realistic character study, 35mm film still.
-Visual effects:
-Specular highlights glancing off honed metallic blade edges, subsurface light scattering within deep skin fissures, fine film grain texture across dark blue shadow transitions.
-Main subject:
-[reference photo] — preserve identity 100%, without any changes to facial proportions, features, or structure.
-Pose and motion:
-[menacing vertical pose, head tilted slightly down with an intense stare locked directly onto the lens, right hand raised beside the cheek displaying a weathered leather glove with curved metal blades].
-Environment details:
-Wearing [a vintage weathered dark brown fedora hat, a coarse knit wool sweater with horizontal olive-green and muted-red stripes, an articulated metal claw glove with sharp steel finger blades]. Twisted burned-skin texture and scarred tissue integrated across the facial anatomy.
-Background and setting:
-[dark studio backdrop with seamless deep blue tones], soft gradient falloff creating complete separation from the figure.
-Lighting:
-Hard directional key light positioned at 45 degrees camera-left casting sculpted facial shadows, low-intensity fill light on the opposite side, cold blue rim light defining the hat brim and shoulder.
-Color palette:
-Dark horror palette, dominant [deep studio blue], accents [muted olive green and dull crimson red of the knit fabric], sharp cold highlight of [polished steel blades].
-Image quality:
-Ultra-high resolution 8K, Path Tracing, RAW, 4:5 aspect ratio, 85mm portrait depth of field, sharp focus on the nearest eye.
-```
-
-<details><summary>Русская версия</summary>
-
-```text
-Стиль и жанр:
-Кинематографичный мрачный редакционный хоррор-портрет, ультрареалистичное исследование персонажа, кадр из фильма на 35-мм плёнку.
-Визуальные эффекты:
-Блики скользят по отполированным кромкам металлических лезвий, подповерхностное рассеивание света в глубоких трещинах кожи, мелкозернистая текстура плёнки по переходам тёмно-синих теней.
-Главный объект:
-[референсное фото] — сохранить идентичность на 100%, без каких-либо изменений пропорций лица, черт или структуры.
-Поза и движение:
-[угрожающая поза стоя, голова слегка наклонена вниз, напряжённый взгляд прямо в объектив, правая рука поднята рядом со щекой, демонстрируя потёртую кожаную перчатку с изогнутыми металлическими лезвиями].
-Детали окружения:
-Одет в [винтажную потёртую тёмно-коричневую фетровую шляпу, грубый вязаный шерстяной свитер с горизонтальными полосами оливково-зелёного и приглушённо-красного цветов, шарнирную металлическую перчатку-коготь с острыми стальными лезвиями]. Искривлённая текстура обожжённой кожи и рубцовая ткань интегрированы в анатомию лица.
-Фон и обстановка:
-[тёмный студийный фон с однородными глубокими синими тонами], мягкий градиентный спад яркости, создающий полное отделение фигуры от фона.
-Освещение:
-Жёсткий направленный ключевой свет, расположенный под углом 45 градусов слева от камеры и отбрасывающий скульптурные тени на лицо, слабый заполняющий свет с противоположной стороны, холодный синий контровой свет, очерчивающий поля шляпы и плечо.
-Цветовая палитра:
-Тёмная хоррор-палитра, преобладающий [глубокий студийный синий], акценты [приглушённый оливково-зелёный и тусклый багряно-красный цвет вязаной ткани], резкий холодный блик [полированных стальных лезвий].
-Качество изображения:
-Сверхвысокое разрешение 8K, Path Tracing, RAW, соотношение сторон 4:5, портретная глубина резкости 85mm, резкий фокус на ближайшем глазе.
-```
-
-</details>
-
-[↑ Back to top](#-halloween--35-ai-image-prompts)
-
----
-
-## 26. A man takes a selfie with six creepy characters outside a video store
+## 28. A man takes a selfie with six creepy characters outside a video store
 
 <a href="https://mozgi.io/en/prompt/p34615"><img src="images/p34615.jpg" width="320" alt="A man takes a selfie with six creepy characters outside a video store"></a>
 
@@ -1490,11 +1602,11 @@ Photorealistic, 8K, vertical 4:5, sharp central face, no text or watermark.
 
 </details>
 
-[↑ Back to top](#-halloween--35-ai-image-prompts)
+[↑ Back to top](#-halloween--42-ai-image-prompts)
 
 ---
 
-## 27. Woman in a red tracksuit stands beside Ghostface at a rainy gas station
+## 29. Woman in a red tracksuit stands beside Ghostface at a rainy gas station
 
 <a href="https://mozgi.io/en/prompt/p34627"><img src="images/p34627.jpg" width="320" alt="Woman in a red tracksuit stands beside Ghostface at a rainy gas station"></a>
 
@@ -1546,11 +1658,11 @@ Ultra-high resolution 8K, Path Tracing, RAW, 4:5 aspect ratio, shallow 50mm foca
 
 </details>
 
-[↑ Back to top](#-halloween--35-ai-image-prompts)
+[↑ Back to top](#-halloween--42-ai-image-prompts)
 
 ---
 
-## 28. A man in a red tracksuit shares burgers with Ghostface in a rainy late-night diner
+## 30. A man in a red tracksuit shares burgers with Ghostface in a rainy late-night diner
 
 <a href="https://mozgi.io/en/prompt/p34622"><img src="images/p34622.jpg" width="320" alt="A man in a red tracksuit shares burgers with Ghostface in a rainy late-night diner"></a>
 
@@ -1602,11 +1714,11 @@ Ultra-high resolution 8K, Path Tracing, RAW, 4:5 aspect ratio, authentic 35mm de
 
 </details>
 
-[↑ Back to top](#-halloween--35-ai-image-prompts)
+[↑ Back to top](#-halloween--42-ai-image-prompts)
 
 ---
 
-## 29. A woman in a red tracksuit sits beside Ghostface in a movie theater, reaching for popcorn
+## 31. A woman in a red tracksuit sits beside Ghostface in a movie theater, reaching for popcorn
 
 <a href="https://mozgi.io/en/prompt/p34623"><img src="images/p34623.jpg" width="320" alt="A woman in a red tracksuit sits beside Ghostface in a movie theater, reaching for popcorn"></a>
 
@@ -1658,11 +1770,11 @@ Ultra-high resolution 8K, RAW, HDR, 4:5 aspect ratio, high-grain 35mm film stock
 
 </details>
 
-[↑ Back to top](#-halloween--35-ai-image-prompts)
+[↑ Back to top](#-halloween--42-ai-image-prompts)
 
 ---
 
-## 30. A woman in a red tracksuit talks with Ghostface in a smoky retro living room beside a record player
+## 32. A woman in a red tracksuit talks with Ghostface in a smoky retro living room beside a record player
 
 <a href="https://mozgi.io/en/prompt/p34625"><img src="images/p34625.jpg" width="320" alt="A woman in a red tracksuit talks with Ghostface in a smoky retro living room beside a record player"></a>
 
@@ -1714,11 +1826,11 @@ Ultra-high resolution 8K, RAW, Path Tracing, 4:5 aspect ratio, authentic 50mm vi
 
 </details>
 
-[↑ Back to top](#-halloween--35-ai-image-prompts)
+[↑ Back to top](#-halloween--42-ai-image-prompts)
 
 ---
 
-## 31. A man in a red tracksuit looks up inside an elevator as Ghostface looms behind him
+## 33. A man in a red tracksuit looks up inside an elevator as Ghostface looms behind him
 
 <a href="https://mozgi.io/en/prompt/p34624"><img src="images/p34624.jpg" width="320" alt="A man in a red tracksuit looks up inside an elevator as Ghostface looms behind him"></a>
 
@@ -1770,11 +1882,11 @@ Ultra-high resolution 8K, Path Tracing, RAW, 4:5 aspect ratio, wide-angle distor
 
 </details>
 
-[↑ Back to top](#-halloween--35-ai-image-prompts)
+[↑ Back to top](#-halloween--42-ai-image-prompts)
 
 ---
 
-## 32. A male portrait in a red tracksuit beside a Ghostface mask, styled as a tense 1990s thriller still
+## 34. A male portrait in a red tracksuit beside a Ghostface mask, styled as a tense 1990s thriller still
 
 <a href="https://mozgi.io/en/prompt/p34626"><img src="images/p34626.jpg" width="320" alt="A male portrait in a red tracksuit beside a Ghostface mask, styled as a tense 1990s thriller still"></a>
 
@@ -1826,229 +1938,435 @@ Ultra-high resolution 8K, RAW, 4:5 aspect ratio, 85mm macro lens rendering, Path
 
 </details>
 
-[↑ Back to top](#-halloween--35-ai-image-prompts)
+[↑ Back to top](#-halloween--42-ai-image-prompts)
 
 ---
 
-## 33. Macro shot of a creepy rag doll with button eyes and an embroidered mouth
+## 35. A puppy in a bat-wing cape sits among pumpkins, candy and Halloween decorations in a playful advertising shoot
 
-<a href="https://mozgi.io/en/prompt/p34334"><img src="images/p34334.jpg" width="320" alt="Macro shot of a creepy rag doll with button eyes and an embroidered mouth"></a>
+<a href="https://mozgi.io/en/prompt/p34599"><img src="images/p34599.jpg" width="320" alt="A puppy in a bat-wing cape sits among pumpkins, candy and Halloween decorations in a playful advertising shoot"></a>
 
-**Model:** Nano Banana 2.1 · **Aspect ratio:** 3/4 · [Open on mozgi.io](https://mozgi.io/en/prompt/p34334)
+**Model:** Nano Banana 2.1 · **Aspect ratio:** 9/16 · [Open on mozgi.io](https://mozgi.io/en/prompt/p34599)
 
 ```text
-Style and genre:
-Product macro photography of a handmade textile toy, whimsical slightly creepy aesthetic.
-
-Visual effects:
-Extreme detail: yarn fibers, denim weave, buttonholes, uneven mouth stitches. Shallow depth of field.
-
-Main object:
-DOLL (do not change):
-Handmade rag doll with a rectangular body made of [light pink] fabric. The left side of the face is covered by a patch of [blue denim]. Eyes made of mismatched buttons: a large blue one on the denim patch and a white one on the pink fabric. Embroidered mouth with jagged teeth. A fluffy orange bow tie around the neck. Denim shorts with a black button and belt loops, legs made of checkered fabric, thin arms in orange-blue-yellow stripes. Hair made of frayed yarn in brown and gray shades sticking out in tufts.
-
-Pose and movement:
-[close-up of the head and bow tie, head slightly tilted, button eyes looking directly at the lens].
-
-Environmental details:
-Loose threads along the edge of the patch, fluff from the bow tie in focus.
-
-Background and environment:
-[patchwork quilt] in deep blur.
-
-Lighting:
-Soft directional light from the side, shadows in the stitches and between the yarn tufts, glare on the buttons.
-
-Color palette:
-[light pink], [blue denim], [orange], warm blurred quilt colors.
-
-Image quality:
-Ultra-high resolution 8K, RAW, 100mm macro f/4, vertical frame 4:5, sharp focus on button eyes and mouth stitches.
+Use the puppy from [REFERENCE DOG PHOTO]. Very young puppy under 3 months, realistic professional studio photo, puppy sitting in the center wearing a short bat-wing shoulder cape and an orange bow collar, body clearly visible and mostly uncovered, surrounded by suspended-looking bat props, two jack-o'-lanterns and a candy bucket, clean solid charcoal black background, no gradient, no blur, soft studio lighting, energetic playful Halloween campaign style, highly detailed fur and prop textures.
 ```
 
 <details><summary>Русская версия</summary>
 
 ```text
-Стиль и жанр:
-Предметная макросъёмка рукодельной текстильной игрушки, причудливая слегка жутковатая эстетика.
-
-Визуальные эффекты:
-Экстремальная детализация: волокна пряжи, плетение денима, отверстия в пуговицах, неровные стежки рта. Малая глубина резкости.
-
-Основной объект:
-КУКЛА (не менять):
-Рукодельная тряпичная кукла с прямоугольным телом из [светло-розовой] ткани. Левую сторону лица закрывает заплатка из [синего денима]. Глаза из разных пуговиц: крупная синяя на денимовой заплатке и белая на розовой ткани. Вышитый рот с зубчатыми зубами. На шее пушистый оранжевый бант-бабочка. Джинсовые шорты с чёрной пуговицей и шлёвками, ноги из клетчатой ткани, тонкие руки в оранжево-сине-жёлтую полоску. Волосы из распушённой пряжи коричневых и серых оттенков торчат пучками.
-
-Поза и движение:
-[крупный план головы и банта, голова слегка наклонена, пуговичные глаза смотрят прямо в объектив].
-
-Детали окружения:
-Торчащие нитки по краю заплатки, пушинки банта в фокусе.
-
-Фон и окружение:
-[лоскутное одеяло] в глубоком размытии.
-
-Освещение:
-Мягкий направленный свет сбоку, тени в стежках и между пучками пряжи, блик на пуговицах.
-
-Цветовая палитра:
-[светло-розовый], [синий деним], [оранжевый], тёплые размытые цвета одеяла.
-
-Качество изображения:
-Ultra-high resolution 8K, RAW, 100mm macro f/4, вертикальный кадр 4:5, резкость на пуговичных глазах и стежках рта.
+Используй щенка с [РЕФЕРЕНСНОЕ ФОТО СОБАКИ]. Очень маленький щенок в возрасте до 3 месяцев, реалистичная профессиональная студийная фотография, щенок сидит в центре, на нём короткая наплечная накидка в форме крыльев летучей мыши и оранжевый ошейник-бант, тело хорошо видно и оно в основном не закрыто, вокруг словно подвешены бутафорские летучие мыши, две тыквы-фонари и ведёрко для сладостей, чистый однотонный угольно-чёрный фон, без градиента, без размытия, мягкий студийный свет, энергичный игривый стиль хэллоуинской кампании, очень детализированные текстуры шерсти и реквизита.
 ```
 
 </details>
 
-[↑ Back to top](#-halloween--35-ai-image-prompts)
+[↑ Back to top](#-halloween--42-ai-image-prompts)
 
 ---
 
-## 34. A whimsical rag doll with a patch on its face and buttons for eyes
+## 36. Woman in a black dress lies in a circle of light while a masked figure watches nearby
 
-<a href="https://mozgi.io/en/prompt/p34332"><img src="images/p34332.jpg" width="320" alt="A whimsical rag doll with a patch on its face and buttons for eyes"></a>
+<a href="https://mozgi.io/en/prompt/p34604"><img src="images/p34604.jpg" width="320" alt="Woman in a black dress lies in a circle of light while a masked figure watches nearby"></a>
 
-**Model:** Nano Banana 2.1 · **Aspect ratio:** 3/4 · [Open on mozgi.io](https://mozgi.io/en/prompt/p34332)
+**Model:** GPT Image 2.5 · **Aspect ratio:** 4/5 · [Open on mozgi.io](https://mozgi.io/en/prompt/p34604)
 
 ```text
 Style and genre:
-Product photography of a handmade textile toy, whimsical slightly creepy aesthetic.
+Photorealistic fashion portrait in the spirit of 1990s slasher films and early-2000s glossy shoots, ironic Halloween chic.
 
 Visual effects:
-The texture of each fabric is visible: denim weave, plaid, corduroy, fluffy fibers of the bow. Uneven hand stitches, stray threads, soft shadows in the fabric folds.
+Overhead view, crisp spotlight circle on the floor, fine grain, flash highlights on the red shoes.
 
-Main object:
-DOLL (do not change):
-Handmade rag doll with a rectangular body made of [light pink] fabric. The left side of the face is covered by a patch of [blue denim]. Eyes made of different buttons: a large blue one on the denim patch and a white one on the pink fabric. Embroidered mouth with jagged teeth. A fluffy orange bow tie around the neck. Denim shorts with a black button and belt loops, legs made of plaid fabric, thin arms in orange-blue-yellow stripes. Hair made of frayed yarn in brown and gray shades sticking out in tufts.
+Main subject:
+[reference photo of an adult woman] — preserve identity 100%: face, proportions, skin tone, hair color and individual features exactly as in the reference.
 
-Pose and movement:
-[standing full height in the center, arms down along the body, head slightly tilted to the side].
+Pose and motion:
+[she lies on her back inside the light circle, hair fanned out, legs crossed, hands behind her head, amused smile up at the camera; the masked figure crouches at the edge of the circle peering over her with head tilted].
 
 Environment details:
-Small stray threads along the seams, slight fabric wear on the knees.
+Short black dress staying in place, red high heels. Masked figure in a white ghost-like mask of original design and a black hooded robe.
 
-Background and environment:
-[patchwork quilt] of multi-colored squares as background and surface.
+Background and setting:
+[dark studio floor] beyond the light circle.
 
 Lighting:
-Soft diffused daylight from the side, delicate shadows, fabric texture emphasized.
+Hard spotlight from directly above, soft flash fill.
 
 Color palette:
-[light pink], [blue denim], [orange], yellow and plaid accents, warm tones of the patchwork quilt.
+[saturated red], [deep black], [white], natural skin.
 
 Image quality:
-Ultra-high resolution 8K, RAW, 50mm f/4, vertical frame 4:5, sharp focus on the doll.
+Photorealistic, top-down camera, vertical 4:5, sharp face. No blood, weapons, fear, text or watermark.
 ```
 
 <details><summary>Русская версия</summary>
 
 ```text
 Стиль и жанр:
-Предметная фотография рукодельной текстильной игрушки, причудливая слегка жутковатая эстетика.
+Фотореалистичный модный портрет в духе слэшеров 1990-х и глянцевых фотосессий начала 2000-х, ироничный хэллоуинский шик.
 
 Визуальные эффекты:
-Видна фактура каждой ткани: плетение денима, клетка, рубчик, пушистые волокна банта. Неровные ручные стежки, торчащие нитки, лёгкие тени в складках ткани.
+Вид сверху, чёткий круг прожекторного света на полу, мелкозернистая текстура, блики вспышки на красных туфлях.
 
-Основной объект:
-КУКЛА (не менять):
-Рукодельная тряпичная кукла с прямоугольным телом из [светло-розовой] ткани. Левую сторону лица закрывает заплатка из [синего денима]. Глаза из разных пуговиц: крупная синяя на денимовой заплатке и белая на розовой ткани. Вышитый рот с зубчатыми зубами. На шее пушистый оранжевый бант-бабочка. Джинсовые шорты с чёрной пуговицей и шлёвками, ноги из клетчатой ткани, тонкие руки в оранжево-сине-жёлтую полоску. Волосы из распушённой пряжи коричневых и серых оттенков торчат пучками.
+Главный объект:
+[эталонная фотография взрослой женщины] — сохранить идентичность на 100%: лицо, пропорции, тон кожи, цвет волос и индивидуальные черты в точности как на эталонной фотографии.
 
 Поза и движение:
-[стоит в полный рост по центру, руки опущены вдоль тела, голова чуть наклонена набок].
+[она лежит на спине внутри светового круга, волосы разложены веером, ноги скрещены, руки за головой, она с улыбкой смотрит вверх на камеру; фигура в маске присела на краю круга и склоняется над ней, наклонив голову].
 
 Детали окружения:
-Мелкие торчащие нитки по швам, лёгкая потёртость ткани на коленях.
+Короткое чёрное платье, не задирающееся, красные туфли на высоком каблуке. Фигура в белой маске призрачного вида оригинального дизайна и чёрном капюшонном одеянии.
 
-Фон и окружение:
-[лоскутное стёганое одеяло] из разноцветных квадратов как фон и поверхность.
+Фон и обстановка:
+[тёмный студийный пол] за пределами светового круга.
 
 Освещение:
-Мягкий рассеянный дневной свет сбоку, деликатные тени, подчёркнута фактура тканей.
+Жёсткий прожекторный свет прямо сверху, мягкий заполняющий свет вспышки.
 
 Цветовая палитра:
-[светло-розовый], [синий деним], [оранжевый], жёлтые и клетчатые акценты, тёплые тона лоскутного одеяла.
+[насыщенный красный], [глубокий чёрный], [белый], естественный цвет кожи.
 
 Качество изображения:
-Ultra-high resolution 8K, RAW, 50mm f/4, вертикальный кадр 4:5, резкость на кукле.
+Фотореализм, камера сверху, вертикальный формат 4:5, резкое лицо. Без крови, оружия, страха, текста или водяного знака.
 ```
 
 </details>
 
-[↑ Back to top](#-halloween--35-ai-image-prompts)
+[↑ Back to top](#-halloween--42-ai-image-prompts)
 
 ---
 
-## 35. A whimsical rag doll with button eyes and denim shorts sits on a blanket
+## 37. A woman in a black dress and red heels poses back to back with a masked figure in a studio
 
-<a href="https://mozgi.io/en/prompt/p34333"><img src="images/p34333.jpg" width="320" alt="A whimsical rag doll with button eyes and denim shorts sits on a blanket"></a>
+<a href="https://mozgi.io/en/prompt/p34605"><img src="images/p34605.jpg" width="320" alt="A woman in a black dress and red heels poses back to back with a masked figure in a studio"></a>
 
-**Model:** Nano Banana 2.1 · **Aspect ratio:** 3/4 · [Open on mozgi.io](https://mozgi.io/en/prompt/p34333)
+**Model:** GPT Image 2.5 · **Aspect ratio:** 4/5 · [Open on mozgi.io](https://mozgi.io/en/prompt/p34605)
 
 ```text
 Style and genre:
-Product photography of a handmade textile toy, whimsical slightly creepy aesthetic.
+Photorealistic fashion portrait in the spirit of 1990s slasher films and early-2000s glossy shoots, ironic Halloween chic.
 
 Visual effects:
-The texture of each fabric and hand stitches are visible. Shallow depth of field, patchwork background softly blurred.
+Compact-camera flash, fine grain, deep shadows, controlled highlights on the mask.
 
-Main object:
-DOLL (do not change):
-Handmade rag doll with a rectangular body made of [light pink] fabric. The left side of the face is covered by a patch of [blue denim]. Eyes made of different buttons: a large blue one on the denim patch and a white one on the pink fabric. Embroidered mouth with jagged teeth. A fluffy orange bow tie around the neck. Denim shorts with a black button and belt loops, legs made of plaid fabric, thin arms in orange-blue-yellow stripes. Hair made of frayed yarn in brown and gray shades sticking out in tufts.
+Main subject:
+[reference photo of an adult woman] — preserve identity 100%: face, proportions, skin tone, hair color and individual features exactly as in the reference.
 
-Pose and movement:
-[sitting on the edge of a folded patchwork quilt, plaid legs dangling down, striped arms resting on knees, head tilted forward, button eyes looking at the camera].
+Pose and motion:
+[standing back to back with the masked figure inside the spotlight circle, both with arms crossed, she smirks at the camera, the figure turns its mask toward her as if offended].
 
-Environmental details:
-A spool of thread and a pair of spare buttons lie nearby.
+Environment details:
+Short black dress, red high heels, red lipstick. Masked figure in a white ghost-like mask of original design and a black hooded robe.
 
-Background and environment:
-[patchwork quilt] in blur.
+Background and setting:
+[dark empty photo studio], spotlight circle.
 
 Lighting:
-Soft diffused daylight from the side, delicate shadows.
+Hard spotlight plus frontal flash fill.
 
 Color palette:
-[light pink], [blue denim], [orange], yellow and plaid accents.
+[saturated red], [deep black], [white], natural skin.
 
 Image quality:
-Ultra-high resolution 8K, RAW, 85mm f/2.8, vertical frame 4:5, sharp focus on the doll's face.
+Photorealistic, full body, vertical 4:5, sharp faces. No blood, weapons, fear, text or watermark.
 ```
 
 <details><summary>Русская версия</summary>
 
 ```text
 Стиль и жанр:
-Предметная фотография рукодельной текстильной игрушки, причудливая слегка жутковатая эстетика.
+Фотореалистичный fashion-портрет в духе слэшеров 1990-х и глянцевых съёмок начала 2000-х, ироничный хэллоуинский шик.
 
 Визуальные эффекты:
-Видна фактура каждой ткани и ручные стежки. Малая глубина резкости, лоскутный фон мягко размыт.
+Вспышка компактной камеры, мелкозернистая текстура, глубокие тени, контролируемые блики на маске.
 
-Основной объект:
-КУКЛА (не менять):
-Рукодельная тряпичная кукла с прямоугольным телом из [светло-розовой] ткани. Левую сторону лица закрывает заплатка из [синего денима]. Глаза из разных пуговиц: крупная синяя на денимовой заплатке и белая на розовой ткани. Вышитый рот с зубчатыми зубами. На шее пушистый оранжевый бант-бабочка. Джинсовые шорты с чёрной пуговицей и шлёвками, ноги из клетчатой ткани, тонкие руки в оранжево-сине-жёлтую полоску. Волосы из распушённой пряжи коричневых и серых оттенков торчат пучками.
+Главный объект:
+[эталонная фотография взрослой женщины] — сохранить идентичность на 100%: лицо, пропорции, оттенок кожи, цвет волос и индивидуальные черты в точности как на референсе.
 
 Поза и движение:
-[сидит на краю сложенного лоскутного одеяла, клетчатые ноги свисают вниз, полосатые руки лежат на коленях, голова наклонена вперёд, пуговичные глаза смотрят в камеру].
+[стоит спиной к спине с фигурой в маске внутри круга света, обе скрестили руки, она самодовольно усмехается в камеру, фигура поворачивает маску к ней, словно оскорблённая].
 
 Детали окружения:
-Рядом лежит катушка ниток и пара запасных пуговиц.
+Короткое чёрное платье, красные туфли на высоком каблуке, красная помада. Фигура в маске — в белой маске, похожей на призрачную, оригинального дизайна, и чёрной робе с капюшоном.
 
-Фон и окружение:
-[лоскутное стёганое одеяло] в размытии.
+Фон и обстановка:
+[тёмная пустая фотостудия], круг света.
 
 Освещение:
-Мягкий рассеянный дневной свет сбоку, деликатные тени.
+Жёсткий прожектор плюс фронтальная заполняющая вспышка.
 
 Цветовая палитра:
-[светло-розовый], [синий деним], [оранжевый], жёлтые и клетчатые акценты.
+[насыщенный красный], [глубокий чёрный], [белый], естественный оттенок кожи.
 
 Качество изображения:
-Ultra-high resolution 8K, RAW, 85mm f/2.8, вертикальный кадр 4:5, резкость на лице куклы.
+Фотореалистичное изображение, в полный рост, вертикальный формат 4:5, лица резкие. Без крови, оружия, страха, текста или водяного знака.
 ```
 
 </details>
 
-[↑ Back to top](#-halloween--35-ai-image-prompts)
+[↑ Back to top](#-halloween--42-ai-image-prompts)
+
+---
+
+## 38. Woman in a black dress and red heels poses in the arms of a white-masked figure in a dark studio
+
+<a href="https://mozgi.io/en/prompt/p34603"><img src="images/p34603.jpg" width="320" alt="Woman in a black dress and red heels poses in the arms of a white-masked figure in a dark studio"></a>
+
+**Model:** GPT Image 2.5 · **Aspect ratio:** 4/5 · [Open on mozgi.io](https://mozgi.io/en/prompt/p34603)
+
+```text
+Style and genre:
+Photorealistic fashion portrait in the spirit of 1990s slasher films and early-2000s glossy shoots, ironic Halloween chic.
+
+Visual effects:
+Compact-camera direct flash look, fine grain, crisp spotlight circle, deep shadows, controlled highlights on the white mask, realistic fabric texture.
+
+Main subject:
+[reference photo of an adult woman] — preserve identity 100%: face, proportions, skin tone, hair color and individual features exactly as in the reference, no heavy retouching.
+
+Pose and motion:
+[a masked figure in a white ghost-like mask of original design and a black hooded robe holds her in a princess carry, one arm under her knees, one behind her back; she rests one arm around its shoulders, legs crossed at the ankles, face turned to the camera with a mocking confident smile].
+
+Environment details:
+Short black dress staying in place, no exposure, no visible underwear. Red high-heeled shoes. Her face fully unobstructed, both figures fully in frame including shoes and hair. Correct grip and anatomy.
+
+Background and setting:
+[dark empty photo studio], bright spotlight circle on the floor and backdrop.
+
+Lighting:
+Hard top spotlight plus soft frontal flash fill, darkened edges.
+
+Color palette:
+[saturated red] shoes, [deep black], [white] mask, natural skin.
+
+Image quality:
+Photorealistic, sharp face, vertical 4:5, both figures in one focal plane. No blood, weapons, injuries, violence, fear, extra limbs, fused bodies, text or watermark.
+```
+
+<details><summary>Русская версия</summary>
+
+```text
+Стиль и жанр:
+Фотореалистичный fashion-портрет в духе слэшеров 1990-х и глянцевых съёмок начала 2000-х, ироничный хэллоуинский шик.
+
+Визуальные эффекты:
+Эффект прямой вспышки компактной камеры, мелкое зерно, чёткий круг светового пятна, глубокие тени, контролируемые блики на белой маске, реалистичная текстура ткани.
+
+Главный объект:
+[референсное фото взрослой женщины] — сохранить идентичность на 100%: лицо, пропорции, тон кожи, цвет волос и индивидуальные черты в точности как на референсе, без сильной ретуши.
+
+Поза и движение:
+[фигура в белой призракоподобной маске оригинального дизайна и чёрном плаще с капюшоном держит её на руках, как принцессу: одна рука под её коленями, другая за спиной; она обнимает одну из его рук за плечи, ноги скрещены в лодыжках, лицо повёрнуто к камере с насмешливой уверенной улыбкой].
+
+Детали окружения:
+Короткое чёрное платье остаётся на месте, без обнажения, нижнее бельё не видно. Красные туфли на высоком каблуке. Её лицо полностью открыто, обе фигуры целиком в кадре, включая обувь и волосы. Правильный захват и анатомия.
+
+Фон и обстановка:
+[тёмная пустая фотостудия], яркий круг светового пятна на полу и фоне.
+
+Освещение:
+Жёсткий верхний направленный свет плюс мягкое фронтальное заполнение вспышкой, затемнённые края.
+
+Цветовая палитра:
+[насыщенный красный] туфель, [глубокий чёрный], [белая] маска, естественный цвет кожи.
+
+Качество изображения:
+Фотореалистичное изображение, резкое лицо, вертикальный формат 4:5, обе фигуры в одной фокальной плоскости. Без крови, оружия, травм, насилия, страха, лишних конечностей, сросшихся тел, текста или водяного знака.
+```
+
+</details>
+
+[↑ Back to top](#-halloween--42-ai-image-prompts)
+
+---
+
+## 39. Porcelain dolls with huge eyes stand in milk inside a flooded nursery with cold blue light, creating cinematic horror
+
+<a href="https://mozgi.io/en/prompt/p34590"><img src="images/p34590.jpg" width="320" alt="Porcelain dolls with huge eyes stand in milk inside a flooded nursery with cold blue light, creating cinematic horror"></a>
+
+**Model:** GPT Image 2.0 · **Aspect ratio:** 4/5 · [Open on mozgi.io](https://mozgi.io/en/prompt/p34590)
+
+```text
+Style and genre:
+Cinematic horror, surrealist installation, high detail clarity.
+Visual effects:
+Liquid physics: a thick white substance resembling milk fills the room up to knee height. Reflections of porcelain faces on the liquid’s mirror-like surface, light refraction effect in a cloudy medium.
+Main subject:
+[a group of old dolls with hypertrophied human eyes]
+Pose and movement:
+[the dolls are frozen in a partially submerged state, their heads turned at a 180-degree angle toward the viewer].
+Environmental details:
+[children’s rawhide shoes floating in the milk], the walls covered with a layer of damp moss-like mold, the ceiling dotted with hundreds of hanging children’s pacifiers.
+Background and surroundings:
+[a flooded children’s room with peeling paint on the walls], the windows boarded up, harsh blue light streaming through the gaps.
+Lighting:
+Cold backlighting creating glowing outlines around the dolls’ hair and emphasizing the viscosity of the milky surface.
+Color palette:
+Base [sterile white], accent [pale blue], details [black pupils].
+Image quality:
+Ultra-high resolution 8K, Ray Tracing, perfect sharpness in the porcelain texture.
+```
+
+<details><summary>Русская версия</summary>
+
+```text
+Стиль и жанр:
+Кинематографичный хоррор, сюрреалистичная инсталляция, высокая четкость деталей.
+Визуальные эффекты:
+Физика жидкости: густое белое вещество, напоминающее молоко, заполняет комнату до колен. Отражения фарфоровых лиц в зеркальной поверхности жидкости, эффект преломления света в мутной среде.
+Основной объект:
+[группа старых кукол с гипертрофированными человеческими глазами]
+Поза и движение:
+[куклы замерли в полупогруженном состоянии, их головы повернуты под углом 180 градусов к зрителю].
+Детали окружения:
+[плавающие в молоке детские ботинки из сырой кожи], стены покрыты слоем влажной плесени, напоминающей мох, потолок усеян сотнями висящих детских сосок.
+Фон и окружение:
+[затопленная детская комната с облупившейся краской на стенах], окна заколочены досками, сквозь щели пробивается резкий синий свет.
+Освещение:
+Холодный контровой свет, создающий сияющие контуры на волосах кукол и подчеркивающий вязкость молочной поверхности.
+Цветовая палитра:
+Основа [стерильно-белый], акцент [бледно-голубой], детали [черный зрачков].
+Качество изображения:
+Ultra-high resolution 8K, Ray Tracing, идеальная резкость на текстуре фарфора.
+```
+
+</details>
+
+[↑ Back to top](#-halloween--42-ai-image-prompts)
+
+---
+
+## 40. A puppy in a witch hat sits inside a pumpkin among candy and bats in a festive Halloween studio shoot
+
+<a href="https://mozgi.io/en/prompt/p34600"><img src="images/p34600.jpg" width="320" alt="A puppy in a witch hat sits inside a pumpkin among candy and bats in a festive Halloween studio shoot"></a>
+
+**Model:** Nano Banana 2.1 · **Aspect ratio:** 9/16 · [Open on mozgi.io](https://mozgi.io/en/prompt/p34600)
+
+```text
+Use the puppy from [REFERENCE DOG PHOTO]. Very young puppy under 3 months, realistic professional studio photo, puppy sitting inside an oversized jack-o'-lantern bowl with front paws over the edge, wearing a tiny witch hat and a black velvet bow at the neck, chest and front paws clearly visible, bat props and candy arranged in a semicircle around the bowl, clean solid deep orange background, no gradient, no blur, soft controlled studio lighting, strong trick-or-treat Halloween feel, highly detailed fur, pumpkin and velvet textures.
+```
+
+<details><summary>Русская версия</summary>
+
+```text
+Используй щенка с [ФОТО СОБАКИ-РЕФЕРЕНСА]. Очень маленький щенок младше 3 месяцев, реалистичная профессиональная студийная фотография, щенок сидит внутри большой миски в виде тыквы-фонаря, передние лапы лежат на краю, на нём крошечная ведьминская шляпа и чёрный бархатный бантик на шее, грудь и передние лапы хорошо видны, вокруг миски полукругом разложены аксессуары в виде летучих мышей и конфеты, чистый однотонный насыщенно-оранжевый фон, без градиента, без размытия, мягкое контролируемое студийное освещение, ярко выраженная хэллоуинская атмосфера «сладость или гадость», высокодетализированный мех, текстуры тыквы и бархата.
+```
+
+</details>
+
+[↑ Back to top](#-halloween--42-ai-image-prompts)
+
+---
+
+## 41. Conceptual high-heeled shoe made of living skin and pulsing muscles, with gold piercings on a black podium
+
+<a href="https://mozgi.io/en/prompt/p34596"><img src="images/p34596.jpg" width="320" alt="Conceptual high-heeled shoe made of living skin and pulsing muscles, with gold piercings on a black podium"></a>
+
+**Model:** Nano Banana 2.1 · **Aspect ratio:** 3/4 · [Open on mozgi.io](https://mozgi.io/en/prompt/p34596)
+
+```text
+Style and genre:
+High-fashion editorial, macro-realism of materials, conceptual footwear design.
+Visual effects:
+Leather texture with tattoos and scars, exposed areas of pink muscle tissue. The use of gold piercings as hardware. A “sweaty” skin effect with tiny glistening droplets.
+Main subject:
+[high-heeled shoes made from living human skin and contracting muscles]
+Pose and movement:
+[the shoes stand on a runway, the muscles inside the heels visibly pulsing to maintain balance].
+Environmental details:
+A stiletto heel made from a sharp shin bone, an insole made from a soft tongue, gold piercing rings threaded through the “skin” of the shoes.
+Background and surroundings:
+[a polished black obsidian runway], reflecting the blood-red texture of the sole.
+Lighting:
+Hard runway lighting (spotlight), creating bright highlights on the gold ornaments and the moist surface of the muscles.
+Color palette:
+Contrasting scheme of [black], [gold], [bright red], [flesh tone].
+Image quality:
+Ultra-high resolution 8K, Octane Render style, perfect sharpness on the piercing details.
+```
+
+<details><summary>Русская версия</summary>
+
+```text
+Стиль и жанр:
+High-fashion эдиториал, макро-реализм материалов, концептуальный дизайн обуви.
+Визуальные эффекты:
+Текстура кожи с татуировками и шрамами, открытые участки розовой мышечной ткани. Использование золотых пирсингов в качестве фурнитуры. Эффект «потной» кожи с мелкими блестящими каплями.
+Основной объект:
+[туфли на шпильках, сделанные из живой человеческой кожи и сокращающихся мышц]
+Поза и движение:
+[обувь стоит на подиуме, мышцы внутри каблука заметно пульсируют, удерживая равновесие].
+Детали окружения:
+Шпилька-каблук из острой берцовой кости, стелька из мягкого языка, золотые кольца пирсинга, продетые сквозь «кожу» обуви.
+Фон и окружение:
+[подиум из полированного чёрного обсидиана], отражающий кроваво-красную текстуру подошвы.
+Освещение:
+Жесткий подиумный свет (spotlight), создающий яркие блики на золотых украшениях и влажной поверхности мышц.
+Цветовая палитра:
+Контрастная схема [черный], [золото], [ярко-красный], [телесный].
+Качество изображения:
+Ultra-high resolution 8K, Octane Render style, идеальная резкость на деталях пирсинга.
+```
+
+</details>
+
+[↑ Back to top](#-halloween--42-ai-image-prompts)
+
+---
+
+## 42. A giant living eye watches from a cramped bathroom mirror as a black tear falls above a jawbone sink in surreal horror
+
+<a href="https://mozgi.io/en/prompt/p34594"><img src="images/p34594.jpg" width="320" alt="A giant living eye watches from a cramped bathroom mirror as a black tear falls above a jawbone sink in surreal horror"></a>
+
+**Model:** GPT Image 2.0 · **Aspect ratio:** 3/4 · [Open on mozgi.io](https://mozgi.io/en/prompt/p34594)
+
+```text
+Style and genre:
+Psychological horror, surreal photography in a bathroom, uncanny valley aesthetic.
+Visual effects:
+The mirror surface behaves like liquid: the pupil in the center of the mirror pulses and dilates. Wet sheen on the mirror's cornea, reflections distorted by spherical aberration.
+Main subject:
+[a bathroom mirror representing a gigantic living human pupil]
+Pose and movement:
+[the eye in the mirror stares intently at the viewer, the eyelid-frame slowly blinks, releasing a thick black tear].
+Environment details:
+[a sink made of jawbone], warm saliva flows from the faucet, walls covered in the texture of the lining of a mouth.
+Background and surroundings:
+[a cramped bathroom], where the air seems thick and humid, and the walls slowly constrict.
+Lighting:
+A single flickering light fixture above the mirror, creating a strobe effect and pulling details of the mirror's iris out of the darkness.
+Color palette:
+Base [charcoal black], accent [bright red of the capillaries], details [dirty white].
+Image quality:
+Ultra-high resolution 8K, Ray Tracing, perfect sharpness on the eye texture, RAW.
+```
+
+<details><summary>Русская версия</summary>
+
+```text
+Стиль и жанр:
+Психологический хоррор, сюрреалистичная фотография в ванной комнате, эстетика «зловещей долины».
+Визуальные эффекты:
+Зеркальная поверхность ведет себя как жидкость: зрачок в центре зеркала пульсирует и расширяется. Влажный блеск роговицы зеркала, отражения, искаженные сферической аберрацией.
+Основной объект:
+[зеркало в ванной, представляющее собой гигантский живой человеческий зрачок]
+Поза и движение:
+[глаз в зеркале пристально следит за зрителем, веко-рама медленно мигает, выделяя густую черную слезу].
+Детали окружения:
+[раковина из челюстной кости], из крана течет теплая слюна, стены покрыты текстурой слизистой оболочки рта.
+Фон и окружение:
+[тесная ванная комната], где воздух кажется густым и влажным, а стены медленно сужаются.
+Освещение:
+Один мигающий светильник над зеркалом, создающий эффект стробоскопа и выхватывающий из темноты детали радужки зеркала.
+Цветовая палитра:
+Основа [угольно-черный], акцент [ярко-красный капилляров], детали [грязно-белый].
+Качество изображения:
+Ultra-high resolution 8K, Ray Tracing, идеальная резкость на текстуре глаза, RAW.
+```
+
+</details>
+
+[↑ Back to top](#-halloween--42-ai-image-prompts)
 
 ---
 
