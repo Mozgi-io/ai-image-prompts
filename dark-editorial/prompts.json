@@ -1,0 +1,168 @@
+[
+  {
+    "id": "p34653",
+    "title": "A woman with closed eyes poses in a black feather gown against a dark background, her crimson lips in focus",
+    "model": "GPT Image 2.5",
+    "ratio": "4/5",
+    "needsReference": true,
+    "prompt": "Style and genre:\nHigh-fashion monochrome editorial portrait, avant-garde fine-art photography, selective-color minimalism.\nVisual effects:\nSubtle subsurface light scattering along facial contours, micro-barb separation on individual feather tips, smooth analog tonal transitions, tactile skin pore texture.\nMain subject:\n[reference photo] — preserve identity 100%, without any changes to facial features, shape, proportions, skin tone, hair color, or hairstyle.\nPose and motion:\n[serene editorial portrait pose with eyes closed, head tilted slightly upward, relaxed peaceful expression, face emerging from surrounding dark plumage].\nEnvironment details:\nWearing [a voluminous sculptural gown crafted from layered matte black feathers framing the collar and shoulders, with satin crimson red lipstick applied as the sole color element in the frame].\nBackground and setting:\n[pure seamless dark studio void], completely falling away into deep charcoal shadows without visible floor or wall boundaries.\nLighting:\nSoft directional top-down key light sculpting the cheekbones and nose bridge, gentle rim lighting catching the outer feather edges, deep clean shadows surrounding the head.\nColor palette:\nMonochrome base with selective color, dominant [deep obsidian black and slate gray], pure focal accent [saturated vivid crimson red on the lips].\nImage quality:\nUltra-high resolution 8K, Path Tracing, RAW, 4:5 aspect ratio, 85mm prime lens rendering, sharp focus on the lips and feather textures.",
+    "prompt_ru": "Стиль и жанр:\nМонохромный редакционный портрет в стиле высокой моды, авангардная художественная фотография, минимализм с выборочным цветом.\nВизуальные эффекты:\nТонкое рассеяние света в подповерхностных слоях вдоль контуров лица, микроскопическое разделение отдельных кончиков перьев, плавные аналоговые тональные переходы, тактильная текстура пор кожи.\nГлавный объект:\n[референсная фотография] — сохранить идентичность на 100%, без каких-либо изменений черт лица, формы, пропорций, тона кожи, цвета волос или прически.\nПоза и движение:\n[безмятежная поза для редакционного портрета с закрытыми глазами, голова слегка запрокинута вверх, расслабленное умиротворенное выражение лица, лицо выступает из окружающего темного оперения].\nДетали окружения:\nНа [объемном скульптурном платье, созданном из многослойных матовых черных перьев, обрамляющих шею и плечи, с атласной насыщенно-красной помадой как единственным цветным элементом в кадре].\nФон и обстановка:\n[чистое бесшовное темное пространство студии], полностью растворяющееся в глубоких угольно-серых тенях без видимых границ пола или стен.\nОсвещение:\nМягкий направленный верхний ключевой свет, моделирующий скулы и переносицу, деликатный контровой свет, подчеркивающий внешние края перьев, глубокие чистые тени вокруг головы.\nЦветовая палитра:\nМонохромная основа с выборочным цветом, доминирующие [глубокий обсидианово-черный и сланцево-серый], чистый акцентный цвет [насыщенный ярко-алый красный на губах].\nКачество изображения:\nСверхвысокое разрешение 8K, Path Tracing, RAW, соотношение сторон 4:5, визуализация объективом 85mm prime, резкий фокус на губах и текстурах перьев.",
+    "tags": [
+      "портрет",
+      "мода",
+      "фото",
+      "студия",
+      "монохром",
+      "close-up"
+    ],
+    "image": "dark-editorial/images/p34653.jpg",
+    "url": "https://mozgi.io/en/prompt/p34653",
+    "author": "@Yelpin"
+  },
+  {
+    "id": "p34652",
+    "title": "A woman in a red corduroy jacket leans against a motel wall with a cold gaze",
+    "model": "GPT Image 2.5",
+    "ratio": "4/5",
+    "needsReference": true,
+    "prompt": "Style and genre:\nGrungy 1980s retro-slasher fashion still, stylized Americana suspense editorial, 35mm Kodak film look.\nVisual effects:\nHarsh amber tungsten halation around exposed bulbs, optical blur on dirty motel glass, textured synthetic fabrics, authentic film grain structure.\nMain subject:\n[reference photo] — preserve identity 100%, without any changes to facial features, shape, or proportions; natural hair disheveled with dry textured volume.\nPose and motion:\n[leaning back against the peeling floral wallpaper of a narrow motel hallway, arms crossed loosely, cold calculating sidelong glance toward an open door].\nEnvironment details:\nWearing [an oversized distressed blood-red corduroy jacket over an unbranded white ribbed cotton tank top, worn black denim shorts, chipped black nail polish].\nBackground and setting:\n[cramped suburban motel corridor with stained patterned carpeting], brass room numbers on scuffed doors, emergency fire extinguisher glass case behind.\nLighting:\nWarm amber overhead hallway sconce casting hard diagonal shadows down the wall, cold green-white light spilling across the floorboards from an open doorway.\nColor palette:\nAged vintage Americana tones, dominant [faded mustard gold and dirty wallpaper cream], bold pop [deep blood-red corduroy], grounding [charcoal shadow].\nImage quality:\nUltra-high resolution 8K, Path Tracing, RAW, 4:5 aspect ratio, 35mm lens rendering, tangible texture on corduroy fabric, wallpaper, and skin.",
+    "prompt_ru": "Стиль и жанр:\nПотёртый ретро-слэшер в эстетике модной съёмки 1980-х, стилизованная редакционная съёмка в духе американской культуры и саспенса, плёночный вид 35mm Kodak.\nВизуальные эффекты:\nЖёсткое янтарное вольфрамовое свечение вокруг открытых ламп, оптическое размытие на грязном мотельном стекле, фактурные синтетические ткани, аутентичная структура плёночного зерна.\nГлавный объект:\n[референсное фото] — сохранить идентичность на 100%, без каких-либо изменений черт лица, формы или пропорций; естественные растрёпанные волосы с сухим текстурированным объёмом.\nПоза и движение:\n[откинувшись назад на облупившиеся цветочные обои узкого коридора мотеля, руки небрежно скрещены, холодный расчётливый косой взгляд в сторону открытой двери].\nДетали внешнего вида:\nОдет(а) в [объёмную потёртую вельветовую куртку кроваво-красного цвета поверх белой рубчатой хлопковой майки без логотипа, потёртые чёрные джинсовые шорты, облупившийся чёрный лак на ногтях].\nФон и окружение:\n[тесный коридор пригородного мотеля с покрытым пятнами узорчатым ковролином], латунные номера комнат на потёртых дверях, за спиной — стеклянный шкаф с огнетушителем.\nОсвещение:\nТёплый янтарный потолочный светильник в коридоре отбрасывает на стену жёсткие диагональные тени, холодный зеленовато-белый свет из открытого дверного проёма проливается на половицы.\nЦветовая палитра:\nВыцветшие винтажные оттенки американской культуры, доминирующие [выцветшее горчичное золото и грязно-кремовый цвет обоев], яркий акцент [глубокий кроваво-красный вельвет], уравновешивающий [угольно-серая тень].\nКачество изображения:\nСверхвысокое разрешение 8K, Path Tracing, RAW, соотношение сторон 4:5, визуализация объектива 35mm, осязаемая текстура вельветовой ткани, обоев и кожи.",
+    "tags": [
+      "ретро",
+      "ужасы",
+      "портрет",
+      "кино",
+      "фото",
+      "женщина",
+      "вертикально"
+    ],
+    "image": "dark-editorial/images/p34652.jpg",
+    "url": "https://mozgi.io/en/prompt/p34652",
+    "author": "@Yelpin"
+  },
+  {
+    "id": "p34621",
+    "title": "Close-up portrait of a woman with glossy red lips peeking through light fabric",
+    "model": "GPT Image 2.5",
+    "ratio": "4/5",
+    "needsReference": true,
+    "prompt": "Style and genre:\nIntimate dreamlike fashion close-up, cinematic beauty editorial with a peeking-through-an-opening feel.\n\nVisual effects:\nHeavily blurred creamy-white foreground object (soft fabric or curtain edge) framing a narrow opening on both sides of the face, without covering the lips or eye. Lips and nearby skin crisply detailed with natural texture, loose hair strands falling naturally across the face, subtle film softness. No excessive smoothing, no artificial skin.\n\nMain subject:\n[reference photo] — preserve identity 100%: face, facial features, lip shape, skin tone, hair color, length and texture exactly as in the reference.\n\nPose and motion:\n[sideways composition: the face tilted horizontally into the frame, lips and one eye visible through the gap, gaze soft toward the camera, lips slightly parted, asymmetrical framing].\n\nEnvironment details:\nGlossy [red] lips with natural volume, not oversized. A few loose strands of hair crossing the cheek and lips.\n\nBackground and setting:\n[soft creamy white] foreground blur on both sides, the background behind the face in gentle shadow.\n\nLighting:\nSoft diffused directional light from the side, gentle highlights on the lips and cheekbone, warm glow on the skin.\n\nColor palette:\n[creamy white], [glossy red], warm skin tones, the hair color from the reference as the deep contrast.\n\nImage quality:\nPhotorealistic, 85mm f/1.4, very shallow depth of field, vertical 4:5, sharp focus on the lips, natural skin texture. No text or watermark.",
+    "prompt_ru": "Стиль и жанр:\nИнтимный мечтательный крупный план в модной эстетике, кинематографичная бьюти-съёмка с ощущением взгляда сквозь проём.\n\nВизуальные эффекты:\nСильно размытый кремово-белый объект на переднем плане (мягкая ткань или край занавески) обрамляет узкий проём по обе стороны лица, не закрывая губы или глаз. Губы и кожа вокруг них чётко прорисованы, с естественной текстурой, отдельные пряди волос естественно падают на лицо, лёгкая плёночная мягкость. Без чрезмерного сглаживания, без искусственного вида кожи.\n\nГлавный объект:\n[референсное фото] — сохранить идентичность на 100%: лицо, черты лица, форму губ, тон кожи, цвет, длину и текстуру волос в точности как на референсе.\n\nПоза и движение:\n[боковая композиция: лицо горизонтально наклонено в кадр, губы и один глаз видны сквозь зазор, мягкий взгляд направлен в камеру, губы слегка приоткрыты, асимметричное кадрирование].\n\nДетали окружения:\nГлянцевые [красные] губы с естественным объёмом, не увеличенные. Несколько свободных прядей волос пересекают щёку и губы.\n\nФон и окружение:\n[мягкое кремово-белое] размытие на переднем плане по обе стороны, фон позади лица погружён в мягкую тень.\n\nОсвещение:\nМягкий рассеянный направленный свет сбоку, нежные блики на губах и скуле, тёплое свечение на коже.\n\nЦветовая палитра:\n[кремово-белый], [глянцевый красный], тёплые оттенки кожи, цвет волос с референса в качестве глубокого контраста.\n\nКачество изображения:\nФотореалистичное изображение, 85mm f/1.4, очень малая глубина резкости, вертикальный формат 4:5, резкий фокус на губах, естественная текстура кожи. Без текста и водяных знаков.",
+    "tags": [
+      "портрет",
+      "close-up",
+      "фото",
+      "женщина",
+      "реализм",
+      "вертикально",
+      "мода"
+    ],
+    "image": "dark-editorial/images/p34621.jpg",
+    "url": "https://mozgi.io/en/prompt/p34621",
+    "author": "@Yelpin"
+  },
+  {
+    "id": "p34614",
+    "title": "A woman and an eerie clown walk toward the camera on a wet night street in a cinematic fashion horror portrait",
+    "model": "GPT Image 2.5",
+    "ratio": "9/16",
+    "needsReference": false,
+    "prompt": "Style and genre:\nHyperrealistic cinematic full-body portrait, eerie fashion editorial, dark fairy-tale horror mood without violence.\n\nVisual effects:\nWet asphalt with mirror reflections of the streetlamp and red balloons in the puddles, light haze in the air, deep shadows, glossy latex sheen on the balloons, realistic satin and wet-street textures.\n\nMain subject:\n[reference photo of an adult woman] — preserve identity 100%: face, facial features, skin tone, hair color, length, texture and styling exactly as in the reference.\n\nPose and motion:\n[she walks hand in hand with an eerie clown of original design down the middle of a wet dark street at night, both stepping toward the camera and looking straight into the lens; she holds one red balloon by its string in her free hand, the clown holds a bunch of five red balloons; her expression slightly flirtatious with a confident hint of a smile].\n\nEnvironment details:\nWhite satin corset with medium red pom-poms instead of buttons, white flared mini skirt, long white over-the-knee stockings, red very high heels, a red bow at the neck. Long lashes, delicate makeup, red lipstick. The clown: original design, vintage puffy silver-gray costume with ruffled collar, white face paint, red nose, unsettling calm smile, no recognizable film character.\n\nBackground and setting:\n[wet dark city street at night], a single streetlamp behind them, dark buildings fading into haze.\n\nLighting:\nStreetlamp backlight creating a strong rim on hair, shoulders and balloons, soft frontal fill revealing faces and white fabric, deep shadows at the edges.\n\nColor palette:\n[deep night blue-black], [white] outfit, [saturated red] balloons, bow, shoes and lips, warm lamp glow.\n\nImage quality:\nHyperrealistic 8K, cinematic, camera at chest level, vertical 9:16, both figures fully in frame including shoes. No identity change, plastic skin, cartoonishness, extra fingers or limbs, fused bodies, wrong hand grip, text or watermark.",
+    "prompt_ru": "Стиль и жанр:\nГиперреалистичный кинематографичный портрет в полный рост, жуткая фэшн-редакционная съёмка, мрачная атмосфера сказочного хоррора без насилия.\n\nВизуальные эффекты:\nМокрый асфальт с зеркальными отражениями уличного фонаря и красных воздушных шаров в лужах, лёгкая дымка в воздухе, глубокие тени, глянцевый латексный блеск на шарах, реалистичные текстуры атласа и мокрой улицы.\n\nГлавный объект:\n[референсная фотография взрослой женщины] — сохранить идентичность на 100%: лицо, черты лица, тон кожи, цвет, длину, текстуру и укладку волос в точности как на референсе.\n\nПоза и движение:\n[она идёт рука об руку с жутким клоуном оригинального дизайна по центру мокрой тёмной улицы ночью, оба направляются к камере и смотрят прямо в объектив; в свободной руке она держит один красный воздушный шарик за верёвочку, клоун держит связку из пяти красных воздушных шаров; её выражение слегка кокетливое, с уверенным намёком на улыбку].\n\nДетали окружения:\nБелый атласный корсет со средними красными помпонами вместо пуговиц, белая расклешённая мини-юбка, длинные белые чулки выше колена, красные туфли на очень высоком каблуке, красный бант на шее. Длинные ресницы, лёгкий макияж, красная помада. Клоун: оригинальный дизайн, винтажный пышный костюм серебристо-серого цвета с воротником-жабо, белый грим на лице, красный нос, тревожная спокойная улыбка, без узнаваемого персонажа из фильма.\n\nФон и обстановка:\n[мокрая тёмная городская улица ночью], один уличный фонарь позади них, тёмные здания, растворяющиеся в дымке.\n\nОсвещение:\nКонтровой свет уличного фонаря создаёт яркий контур на волосах, плечах и воздушных шарах, мягкий фронтальный заполняющий свет подчёркивает лица и белую ткань, глубокие тени по краям.\n\nЦветовая палитра:\n[глубокий ночной сине-чёрный], наряд [белого цвета], воздушные шары, бант, туфли и губы [насыщенного красного цвета], тёплое свечение фонаря.\n\nКачество изображения:\nГиперреалистичное 8K, кинематографичный стиль, камера на уровне груди, вертикальный формат 9:16, обе фигуры полностью в кадре, включая обувь. Без изменения идентичности, пластиковой кожи, мультяшности, лишних пальцев или конечностей, сросшихся тел, неправильного захвата за руки, текста или водяного знака.",
+    "tags": [
+      "cinematic",
+      "ужасы",
+      "женщина",
+      "полный рост",
+      "ночь",
+      "отражение",
+      "мода"
+    ],
+    "image": "dark-editorial/images/p34614.jpg",
+    "url": "https://mozgi.io/en/prompt/p34614",
+    "author": "@Yelpin"
+  },
+  {
+    "id": "p34612",
+    "title": "Woman in a white costume takes a red balloon from a clown on a wet night street in a cinematic full-body portrait",
+    "model": "GPT Image 2.5",
+    "ratio": "9/16",
+    "needsReference": false,
+    "prompt": "Style and genre:\nHyperrealistic cinematic portrait, eerie fashion editorial, dark fairy-tale mood without violence.\n\nVisual effects:\nCone of lamplight through haze, puddle reflections, balloon strings catching the light.\n\nMain subject:\n[reference photo of an adult woman] — preserve identity 100%: face, facial features, skin tone, hair color, length, texture and styling exactly as in the reference.\n\nPose and motion:\n[she stands under the streetlamp, the clown of original design bows slightly and offers her a single red balloon; she reaches for the string, glancing back at the camera with a sly smile].\n\nEnvironment details:\nWhite satin corset with red pom-poms, white flared mini skirt, white over-the-knee stockings, red high heels, red bow at the neck, red lipstick. The clown: original design, silver-gray ruffled costume, white face paint, red nose, holding a bunch of red balloons.\n\nBackground and setting:\n[wet dark street at night], empty sidewalk, haze.\n\nLighting:\nOverhead streetlamp as key, soft fill on faces, deep shadows outside the light cone.\n\nColor palette:\n[blue-black night], [white], [saturated red], warm lamp glow.\n\nImage quality:\nHyperrealistic 8K, cinematic, full body, vertical 9:16, sharp faces, correct hands. No text or watermark.",
+    "prompt_ru": "Стиль и жанр:\nГиперреалистичный кинематографичный портрет, жуткая фэшн-редакционная съёмка, мрачная сказочная атмосфера без насилия.\n\nВизуальные эффекты:\nКонус света от уличного фонаря сквозь дымку, отражения в лужах, нити воздушных шаров, ловящие свет.\n\nГлавный объект:\n[референсное фото взрослой женщины] — сохранить идентичность на 100%: лицо, черты лица, тон кожи, цвет, длину, текстуру и укладку волос в точности как на референсе.\n\nПоза и движение:\n[она стоит под уличным фонарём, клоун в оригинальном дизайне слегка кланяется и протягивает ей один красный воздушный шар; она тянется к нити, оглядываясь на камеру с хитрой улыбкой].\n\nДетали окружения:\nБелый атласный корсет с красными помпонами, белая расклёшенная мини-юбка, белые чулки выше колена, красные туфли на высоком каблуке, красный бант на шее, красная помада. Клоун: оригинальный дизайн, серебристо-серый костюм с рюшами, белый грим, красный нос, держит связку красных воздушных шаров.\n\nФон и обстановка:\n[мокрая тёмная улица ночью], пустой тротуар, дымка.\n\nОсвещение:\nУличный фонарь сверху как основной источник света, мягкий заполняющий свет на лицах, глубокие тени за пределами светового конуса.\n\nЦветовая палитра:\n[сине-чёрная ночь], [белый], [насыщенный красный], тёплое свечение фонаря.\n\nКачество изображения:\nГиперреалистичное 8K, кинематографичный стиль, в полный рост, вертикальный формат 9:16, резкие лица, правильные руки. Без текста и водяных знаков.",
+    "tags": [
+      "портрет",
+      "фото",
+      "мода",
+      "ночь",
+      "дождь",
+      "вертикально",
+      "полный рост"
+    ],
+    "image": "dark-editorial/images/p34612.jpg",
+    "url": "https://mozgi.io/en/prompt/p34612",
+    "author": "@Yelpin"
+  },
+  {
+    "id": "p34611",
+    "title": "A woman in a white corset holds red balloons on a wet night street with a blurred clown behind her",
+    "model": "GPT Image 2.5",
+    "ratio": "9/16",
+    "needsReference": false,
+    "prompt": "Style and genre:\nHyperrealistic cinematic portrait, eerie fashion editorial.\n\nVisual effects:\nA canopy of red balloons above her head glowing from the backlight, raindrops on the balloons, haze, shallow depth of field.\n\nMain subject:\n[reference photo of an adult woman] — preserve identity 100%: face, facial features, skin tone, hair color, length, texture and styling exactly as in the reference.\n\nPose and motion:\n[waist-up, she holds the strings of a whole bunch of red balloons above her head, chin raised, confident flirtatious smile into the camera; the clown of original design is a soft blurred figure in the background watching].\n\nEnvironment details:\nWhite satin corset with red pom-poms, red bow at the neck, red lipstick, delicate makeup, long lashes.\n\nBackground and setting:\n[wet dark street at night] blurred into bokeh of streetlamps.\n\nLighting:\nWarm backlight through the balloons, soft frontal fill on the face.\n\nColor palette:\n[saturated red], [white], [blue-black], warm glow.\n\nImage quality:\nHyperrealistic 8K, 85mm f/1.8 look, vertical 9:16, sharp eyes. No text or watermark.",
+    "prompt_ru": "Стиль и жанр:\nГиперреалистичный кинематографичный портрет, жуткая fashion-съёмка.\n\nВизуальные эффекты:\nНавес из красных воздушных шаров над её головой, светящихся в контровом свете, капли дождя на шарах, дымка, малая глубина резкости.\n\nГлавный объект:\n[референсное фото взрослой женщины] — сохранить идентичность на 100%: лицо, черты лица, тон кожи, цвет, длину, текстуру и укладку волос в точности как на референсе.\n\nПоза и движение:\n[по пояс, она держит верёвочки целой связки красных воздушных шаров над головой, подбородок поднят, уверенная кокетливая улыбка в камеру; клоун оригинального дизайна — мягко размытая фигура на заднем плане, наблюдающая за ней].\n\nДетали окружения:\nБелый атласный корсет с красными помпонами, красный бант на шее, красная помада, нежный макияж, длинные ресницы.\n\nФон и место действия:\n[мокрая тёмная улица ночью], размытая в боке уличных фонарей.\n\nОсвещение:\nТёплый контровой свет, проходящий сквозь воздушные шары, мягкий фронтальный заполняющий свет на лице.\n\nЦветовая палитра:\n[насыщенный красный], [белый], [сине-чёрный], тёплое свечение.\n\nКачество изображения:\nГиперреалистичное 8K, вид в стиле 85mm f/1.8, вертикальный формат 9:16, резкие глаза. Без текста и водяных знаков.",
+    "tags": [
+      "портрет",
+      "женщина",
+      "гиперреализм",
+      "cinematic",
+      "ночь",
+      "дождь",
+      "вертикально"
+    ],
+    "image": "dark-editorial/images/p34611.jpg",
+    "url": "https://mozgi.io/en/prompt/p34611",
+    "author": "@Yelpin"
+  },
+  {
+    "id": "p34597",
+    "title": "A surreal toaster made of living flesh browns skin slices with steam on a steel kitchen counter",
+    "model": "Nano Banana 2.1",
+    "ratio": "3/4",
+    "needsReference": false,
+    "prompt": "Style and genre:\nMacro photography of a kitchen appliance, conceptual food art, surrealism.\nVisual effects:\nThe Maillard effect on skin: characteristic darkening and wrinkling during heating. Distortion of the air (heat haze) rising from the slots. The texture of coagulated blood in the form of a glossy crust.\nMain subject:\n[kitchen toaster with a casing made of living flesh and teeth instead of buttons]\nPose and movement:\n[two slices of toasted human skin pop out of the toaster slots, with heavy steam rising above them].\nEnvironmental details:\nTooth-buttons with gold crowns, a lever made from [index finger], the casing’s texture resembles pigskin with sparse bristles.\nBackground and surroundings:\n[minimalist stainless-steel kitchen], with visible drops of grease and organic streaks.\nLighting:\nHard overhead lighting emphasizing the relief of the charred skin and creating highlights on the enamel of the tooth-buttons.\nColor palette:\nDominant [brown and toasted], accent [pink], details [steel gray].\nImage quality:\nUltra-high resolution 8K, macro lens, Path Tracing, highly detailed steam.",
+    "prompt_ru": "Стиль и жанр:\nМакро-фотография кухонного прибора, концептуальный фуд-арт, сюрреализм.\nВизуальные эффекты:\nЭффект Майяра на коже: характерное потемнение и сморщивание при нагреве. Искажение воздуха (тепловое марево), поднимающееся из слотов. Текстура запекшейся крови в виде глянцевой корочки.\nОсновной объект:\n[кухонный тостер с корпусом из живой плоти и зубами вместо кнопок]\nПоза и движение:\n[из слотов тостера выскакивают два ломтика обжаренной человеческой кожи, над ними поднимается тяжёлый пар].\nДетали окружения:\nКнопки-зубы с золотыми коронками, рычаг из [указательного пальца], текстура корпуса напоминает свиную кожу с редкой щетиной.\nФон и окружение:\n[минималистичная кухня из нержавеющей стали], на которой видны капли жира и органические подтёки.\nОсвещение:\nЖёсткий верхний свет, подчёркивающий рельефность обгоревшей кожи и создающий блики на эмали зубов-кнопок.\nЦветовая палитра:\nДоминанта [коричнево-поджаристый], акцент [розовый], детали [стальной серый].\nКачество изображения:\nUltra-high resolution 8K, макро-объектив, Path Tracing, высокая детализация пара.",
+    "tags": [
+      "сюрреализм",
+      "макро",
+      "еда",
+      "фото",
+      "кухня",
+      "ужасы"
+    ],
+    "image": "dark-editorial/images/p34597.jpg",
+    "url": "https://mozgi.io/en/prompt/p34597",
+    "author": "@Yelpin"
+  },
+  {
+    "id": "p34595",
+    "title": "Hyperrealistic surreal still life of a tooth-filled pomegranate, eyeball grapes and a peach on a silver platter in a dark kitchen",
+    "model": "Nano Banana 2.1",
+    "ratio": "3/4",
+    "needsReference": false,
+    "prompt": "Style and genre:\nStill life in the style of the Dutch masters, hyperrealism, biological surrealism.\nVisual effects:\nWet surface effect: fruit juice has the consistency and viscosity of blood. Subsurface light scattering in the soft tissues of the fruit, revealing the capillary network beneath the skin.\nMain subject:\n[still life of fruits made up of human organs]\nPose and movement:\n[pomegranate split open, with human teeth tightly packed inside instead of seeds; a bunch of grapes made up of eyeballs of different colors].\nEnvironment details:\n[silver dish with engraving], covered with a thin layer of sticky slime, flies with slender human fingers instead of legs, crawling over a sliced peach made of muscle tissue.\nBackground and surroundings:\n[dark classical kitchen with oak paneling], with bunches of dried ears hanging in the background instead of garlic.\nLighting:\nHard side light from a narrow window, creating deep shadows and bright highlights on the enamel of the teeth and the wet surface of the eyes.\nColor palette:\nDominant [deep burgundy], accent [ivory], shadows [umber].\nImage quality:\nUltra-high resolution 8K, Path Tracing, macro detail, RAW.",
+    "prompt_ru": "Стиль и жанр:\nНатюрморт в стиле голландских мастеров, гиперреализм, биологический сюрреализм.\nВизуальные эффекты:\nЭффект влажной поверхности: сок фруктов имеет консистенцию и вязкость крови. Подповерхностное рассеивание света в мягких тканях плодов, проявляющее капиллярную сетку под кожицей.\nОсновной объект:\n[натюрморт из фруктов, состоящих из человеческих органов]\nПоза и движение:\n[гранат разломлен, внутри вместо зерен плотно уложены человеческие зубы; виноградная гроздь состоит из глазных яблок разного цвета].\nДетали окружения:\n[серебряное блюдо с гравировкой], покрытое тонким слоем липкой слизи, мухи с тонкими человеческими пальцами вместо лапок, ползающие по разрезанному персику из мышечной ткани.\nФон и окружение:\n[темная классическая кухня с дубовыми панелями], на заднем плане висят связки сушеных ушей вместо чеснока.\nОсвещение:\nЖесткий боковой свет из узкого окна, создающий глубокие тени и яркие блики на эмали зубов и влажной поверхности глаз.\nЦветовая палитра:\nДоминанта [глубокий бордовый], акцент [слоновая кость], тени [умбра].\nКачество изображения:\nUltra-high resolution 8K, Path Tracing, макро-детализация, RAW.",
+    "tags": [
+      "натюрморт",
+      "сюрреализм",
+      "гиперреализм",
+      "ужасы",
+      "макро",
+      "кухня",
+      "фото"
+    ],
+    "image": "dark-editorial/images/p34595.jpg",
+    "url": "https://mozgi.io/en/prompt/p34595",
+    "author": "@Yelpin"
+  }
+]
